@@ -1,7 +1,7 @@
 import requests, json
 
 # Define your API key
-API_KEY = 'sk-proj-G2773miTy9SZBOc44CVKT3BlbkFJigoWByzS3Is4ruifJMh5'  # Replace with your actual API key
+API_KEY = 'use_secret_key'  # Replace with your actual API key
 
 # Define the endpoint and headers
 url = "https://api.openai.com/v1/chat/completions"
