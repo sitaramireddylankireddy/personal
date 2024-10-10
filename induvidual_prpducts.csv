@@ -1,0 +1,885 @@
+,sku,short_name,name,parent_sku,status,category,sub_category,is_family_head,is_individual,product_code,is_deleted
+0,000000006304574010,,Raise Sneakers Standard Fit / Raise Sneakers Standard Fit 8.5,000000006304574011-main,Active,,,False,True,,False
+1,000000006304574003,,Raise Sneakers Standard Fit / Raise Sneakers Standard Fit 9,000000006304574011-main,Active,,,False,True,,False
+2,000000006304574012,,Raise Sneakers Standard Fit / Raise Sneakers Standard Fit 9.5,000000006304574011-main,Active,,,False,True,,False
+3,Black-2,,Shirts Black,Black-2-main,Active,1.0,5.0,False,True,,False
+4,000000006304574004,,Raise Sneakers Standard Fit / Raise Sneakers Standard Fit 10,000000006304574011-main,Active,,,False,True,,False
+5,000000006304574014,,Raise Sneakers Standard Fit / Raise Sneakers Standard Fit 10.5,000000006304574011-main,Active,,,False,True,,False
+6,000000006304574005,,Raise Sneakers Standard Fit / Raise Sneakers Standard Fit 11,000000006304574011-main,Active,,,False,True,,False
+7,000000006304574006,,Raise Sneakers Standard Fit / Raise Sneakers Standard Fit 12,000000006304574011-main,Active,,,False,True,,False
+8,000000006304574016,,Raise Sneakers Standard Fit / Raise Sneakers Standard Fit 12.5,000000006304574011-main,Active,,,False,True,,False
+9,000000006304574015,,Raise Sneakers Standard Fit / Raise Sneakers Standard Fit 11.5,000000006304574011-main,Active,,,False,True,,False
+10,000000006304574017,,Raise Sneakers Standard Fit / Raise Sneakers Standard Fit 13,000000006304574011-main,Active,,,False,True,,False
+12,000000006304520001,,Bar Minibag One Size,000000006304520001-main,Active,,,False,True,,False
+14,000000006304722001,,Pennant Minibag One Size,000000006304722001-main,Active,,,False,True,,False
+16,000000006304707001,,Bar Crossbody Bag One Size,000000006304707001-main,Active,,,False,True,,False
+18,000000006304710001,,Bar Tote Bag One Size,000000006304710001-main,Active,,,False,True,,False
+21,000000006304517001,,Bar Tote Bag One Size,000000006304517001-main,Active,,,False,True,,False
+22,000000006304580001,,Bar Tote Bag One Size,000000006304580001-main,Active,,,False,True,,False
+24,000000006304711001,,Bar Tote Bag One Size,000000006304711001-main,Active,,,False,True,,False
+26,000000006304739001,,Bar Bucket Bag One Size,000000006304739001-main,Active,,,False,True,,False
+27,RED14001,,Test Lazada T Shirt Red US:14,2675157186-1677568199122-3-main,Active,,,False,True,,False
+29,400,,Early Autumn Denim Canvas Shoes -Test / black · 6.5,early-autumn-denim-canvas-shoes,Active,,,False,True,,False
+31,243,,Long Sleeve Sweatshirt with letter / grey · M,long-sleeve-sweatshirt-with-letter,Active,,,False,True,,False
+32,241,,Long Sleeve Sweatshirt with letter / grey · S,long-sleeve-sweatshirt-with-letter,Active,,,False,True,,False
+33,244,,Long Sleeve Sweatshirt with letter / black · L,long-sleeve-sweatshirt-with-letter,Active,,,False,True,,False
+34,245,,Long Sleeve Sweatshirt with letter / grey · L,long-sleeve-sweatshirt-with-letter,Active,,,False,True,,False
+35,209001YellowS,,Solid Pocket Sleeveless Ruffle Hem Tank Dress Plain Belted Shirt Collar Arc Hem Roll Batwing Sleeve / Yellow · S,contrast-tie-dye-loose-three-quarter-sleeve-suit,Active,,,False,True,,False
+36,209001YellowXL-31,,Solid Pocket Sleeveless Ruffle Hem Tank Dress Plain Belted Shirt Collar Arc Hem Roll Batwing Sleeve / Yellow · XL,contrast-tie-dye-loose-three-quarter-sleeve-suit,Active,,,False,True,,False
+37,209001PinkM-46,,Solid Pocket Sleeveless Ruffle Hem Tank Dress Plain Belted Shirt Collar Arc Hem Roll Batwing Sleeve / Pink · M,contrast-tie-dye-loose-three-quarter-sleeve-suit,Active,,,False,True,,False
+39,240,,Long Sleeve Sweatshirt with letter / black · S,long-sleeve-sweatshirt-with-letter,Active,,,False,True,,False
+41,242,,Long Sleeve Sweatshirt with letter / black · M,long-sleeve-sweatshirt-with-letter,Active,,,False,True,,False
+42,NOODLES-12345,,LEANguini Alfredo MontAmoré Default,noodles-12345-main,Active,,,False,True,,False
+44,Fish1,,"Fish Broast With Fish, Plain Flour, Corn Flour, Baking Powder, Salt, Soya Sauce Default / Default",fish1-main,Active,,,False,True,,False
+45,Fish2,,"Fish Broast With Fish, Plain Flour, Corn Flour, Baking Powder, Salt, Soya Sauce Default / Fish2",fish1-main,Active,,,False,True,,False
+47,000000006304765001,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 2,000000006304765001-main,Active,,,False,True,,False
+48,000000006304882002,,Emblem Fixed 35mm Dress Belt / Emblem Fixed 35mm Dress Belt 85 cm,000000006304882002-main,Active,,,False,True,,False
+49,000000006304882003,,Emblem Fixed 35mm Dress Belt / Emblem Fixed 35mm Dress Belt 90 cm,000000006304882002-main,Active,,,False,True,,False
+50,000000006304882004,,Emblem Fixed 35mm Dress Belt / Emblem Fixed 35mm Dress Belt 95 cm,000000006304882002-main,Active,,,False,True,,False
+51,000000006304882001,,Emblem Fixed 35mm Dress Belt / Emblem Fixed 35mm Dress Belt 100 cm,000000006304882002-main,Active,,,False,True,,False
+52,000000006304882005,,Emblem Fixed 35mm Dress Belt / Emblem Fixed 35mm Dress Belt 105 cm,000000006304882002-main,Active,,,False,True,,False
+53,000000006304882006,,Emblem Fixed 35mm Dress Belt / Emblem Fixed 35mm Dress Belt 110 cm,000000006304882002-main,Active,,,False,True,,False
+54,000000006304882007,,Emblem Fixed 35mm Dress Belt / Emblem Fixed 35mm Dress Belt 120 cm,000000006304882002-main,Active,,,False,True,,False
+56,000000006304547001,,Lago Briefcase One Size,000000006304547001-main,Active,,,False,True,,False
+58,000000006304548001,,Pennant Briefcase One Size,000000006304548001-main,Active,,,False,True,,False
+60,000000006304883007,,Bally Iconic 35mm Belt / Bally Iconic 35mm Belt 80 cm,000000006304883007-main,Active,,,False,True,,False
+61,000000006304883002,,Bally Iconic 35mm Belt / Bally Iconic 35mm Belt 85 cm,000000006304883007-main,Active,,,False,True,,False
+62,000000006304883003,,Bally Iconic 35mm Belt / Bally Iconic 35mm Belt 90 cm,000000006304883007-main,Active,,,False,True,,False
+64,000000006304883004,,Bally Iconic 35mm Belt / Bally Iconic 35mm Belt 95 cm,000000006304883007-main,Active,,,False,True,,False
+65,000000006304883001,,Bally Iconic 35mm Belt / Bally Iconic 35mm Belt 100 cm,000000006304883007-main,Active,,,False,True,,False
+67,000000006304883005,,Bally Iconic 35mm Belt / Bally Iconic 35mm Belt 105 cm,000000006304883007-main,Active,,,False,True,,False
+68,000000006304883006,,Bally Iconic 35mm Belt / Bally Iconic 35mm Belt 110 cm,000000006304883007-main,Active,,,False,True,,False
+69,000000006304883008,,Bally Iconic 35mm Belt / Bally Iconic 35mm Belt 115 cm,000000006304883007-main,Active,,,False,True,,False
+70,000000006304883009,,Bally Iconic 35mm Belt / Bally Iconic 35mm Belt 120 cm,000000006304883007-main,Active,,,False,True,,False
+72,000000006304869002,,Casual Fixed 40mm Belt / Casual Fixed 40mm Belt 85 cm,000000006304869002-main,Active,,,False,True,,False
+73,000000006304869003,,Casual Fixed 40mm Belt / Casual Fixed 40mm Belt 90 cm,000000006304869002-main,Active,,,False,True,,False
+74,000000006304869004,,Casual Fixed 40mm Belt / Casual Fixed 40mm Belt 95 cm,000000006304869002-main,Active,,,False,True,,False
+75,000000006304869001,,Casual Fixed 40mm Belt / Casual Fixed 40mm Belt 100 cm,000000006304869002-main,Active,,,False,True,,False
+76,000000006304869005,,Casual Fixed 40mm Belt / Casual Fixed 40mm Belt 105 cm,000000006304869002-main,Active,,,False,True,,False
+77,000000006304869006,,Casual Fixed 40mm Belt / Casual Fixed 40mm Belt 110 cm,000000006304869002-main,Active,,,False,True,,False
+78,000000006304869007,,Casual Fixed 40mm Belt / Casual Fixed 40mm Belt 115 cm,000000006304869002-main,Active,,,False,True,,False
+79,000000006304869008,,Casual Fixed 40mm Belt / Casual Fixed 40mm Belt 120 cm,000000006304869002-main,Active,,,False,True,,False
+81,000000006304870002,,Casual Fixed 40mm Belt / Casual Fixed 40mm Belt 85 cm,000000006304870002-main,Active,,,False,True,,False
+82,000000006304870003,,Casual Fixed 40mm Belt / Casual Fixed 40mm Belt 90 cm,000000006304870002-main,Active,,,False,True,,False
+83,000000006304870004,,Casual Fixed 40mm Belt / Casual Fixed 40mm Belt 95 cm,000000006304870002-main,Active,,,False,True,,False
+84,000000006304870001,,Casual Fixed 40mm Belt / Casual Fixed 40mm Belt 100 cm,000000006304870002-main,Active,,,False,True,,False
+85,000000006304870007,,Casual Fixed 40mm Belt / Casual Fixed 40mm Belt 105 cm,000000006304870002-main,Active,,,False,True,,False
+86,000000006304870005,,Casual Fixed 40mm Belt / Casual Fixed 40mm Belt 110 cm,000000006304870002-main,Active,,,False,True,,False
+87,000000006304870006,,Casual Fixed 40mm Belt / Casual Fixed 40mm Belt 115 cm,000000006304870002-main,Active,,,False,True,,False
+88,000000006304870008,,Casual Fixed 40mm Belt / Casual Fixed 40mm Belt 120 cm,000000006304870002-main,Active,,,False,True,,False
+90,000000006304608001,,Ribbon Crossbody Bag One Size,000000006304608001-main,Active,,,False,True,,False
+92,000000006304838001,,Gare Crossbody Bag One Size,000000006304838001-main,Active,,,False,True,,False
+94,000000006304873002,,Adjustable 35mm Dress Belt / Adjustable 35mm Dress Belt 95 cm,000000006304873002-main,Active,,,False,True,,False
+95,000000006304873001,,Adjustable 35mm Dress Belt / Adjustable 35mm Dress Belt 110 cm,000000006304873002-main,Active,,,False,True,,False
+97,000000006304849001,,Lago Backpack One Size,000000006304849001-main,Active,,,False,True,,False
+99,000000006304854001,,Bar Backpack One Size,000000006304854001-main,Active,,,False,True,,False
+101,000000006304856001,,Pennant Backpack One Size,000000006304856001-main,Active,,,False,True,,False
+103,000000006304857001,,Banque Clutch One Size,000000006304857001-main,Active,,,False,True,,False
+105,000000006304859001,,Pennant Clutch One Size,000000006304859001-main,Active,,,False,True,,False
+107,000000006304865001,,Bar Weekender One Size,000000006304865001-main,Active,,,False,True,,False
+109,000000006304886001,,Ribbon Business Card Holder One Size,000000006304886001-main,Active,,,False,True,,False
+111,000000006304887001,,Ribbon Card Holder One Size,000000006304887001-main,Active,,,False,True,,False
+113,000000006304889001,,Speciale Card Holder One Size,000000006304889001-main,Active,,,False,True,,False
+115,000000006304909001,,Ribbon Continental Wallet One Size,000000006304909001-main,Active,,,False,True,,False
+117,000000006304911001,,Speciale Continental Wallet One Size,000000006304911001-main,Active,,,False,True,,False
+119,000000006304669026,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 5,000000006304669026-main,Active,,,False,True,,False
+120,000000006304669032,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 5.5,000000006304669026-main,Active,,,False,True,,False
+121,000000006304669002,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 6,000000006304669026-main,Active,,,False,True,,False
+122,000000006304669003,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 6.5,000000006304669026-main,Active,,,False,True,,False
+123,000000006304669004,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 7,000000006304669026-main,Active,,,False,True,,False
+124,000000006304669005,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 7.5,000000006304669026-main,Active,,,False,True,,False
+125,000000006304669006,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 8,000000006304669026-main,Active,,,False,True,,False
+126,000000006304669007,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 8.5,000000006304669026-main,Active,,,False,True,,False
+127,000000006304669008,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 9,000000006304669026-main,Active,,,False,True,,False
+128,000000006304669012,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 9.5,000000006304669026-main,Active,,,False,True,,False
+129,000000006304669001,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 10,000000006304669026-main,Active,,,False,True,,False
+130,000000006304669009,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 10.5,000000006304669026-main,Active,,,False,True,,False
+131,000000006304669010,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 11,000000006304669026-main,Active,,,False,True,,False
+132,000000006304669020,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 11.5,000000006304669026-main,Active,,,False,True,,False
+133,000000006304669011,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 12,000000006304669026-main,Active,,,False,True,,False
+134,000000006304669022,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 12.5,000000006304669026-main,Active,,,False,True,,False
+135,000000006304669023,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 13,000000006304669026-main,Active,,,False,True,,False
+137,000000006304765008,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 2.5,000000006304765001-main,Active,,,False,True,,False
+138,000000006304765002,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 3,000000006304765001-main,Active,,,False,True,,False
+139,000000006304765003,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 3.5,000000006304765001-main,Active,,,False,True,,False
+140,000000006304669024,,Kerbs Drivers Wide Fit / Kerbs Drivers Wide Fit 4,000000006304669024-main,Active,,,False,True,,False
+141,000000006304669025,,Kerbs Drivers Wide Fit / Kerbs Drivers Wide Fit 4.5,000000006304669024-main,Active,,,False,True,,False
+142,000000006304669013,,Kerbs Drivers Wide Fit / Kerbs Drivers Wide Fit 5,000000006304669024-main,Active,,,False,True,,False
+143,000000006304669027,,Kerbs Drivers Wide Fit / Kerbs Drivers Wide Fit 5.5,000000006304669024-main,Active,,,False,True,,False
+144,000000006304669014,,Kerbs Drivers Wide Fit / Kerbs Drivers Wide Fit 6,000000006304669024-main,Active,,,False,True,,False
+145,000000006304669028,,Kerbs Drivers Wide Fit / Kerbs Drivers Wide Fit 6.5,000000006304669024-main,Active,,,False,True,,False
+146,000000006304669015,,Kerbs Drivers Wide Fit / Kerbs Drivers Wide Fit 7,000000006304669024-main,Active,,,False,True,,False
+147,000000006304669029,,Kerbs Drivers Wide Fit / Kerbs Drivers Wide Fit 7.5,000000006304669024-main,Active,,,False,True,,False
+148,000000006304669016,,Kerbs Drivers Wide Fit / Kerbs Drivers Wide Fit 8,000000006304669024-main,Active,,,False,True,,False
+149,000000006304669030,,Kerbs Drivers Wide Fit / Kerbs Drivers Wide Fit 8.5,000000006304669024-main,Active,,,False,True,,False
+150,000000006304669017,,Kerbs Drivers Wide Fit / Kerbs Drivers Wide Fit 9,000000006304669024-main,Active,,,False,True,,False
+151,000000006304669031,,Kerbs Drivers Wide Fit / Kerbs Drivers Wide Fit 9.5,000000006304669024-main,Active,,,False,True,,False
+152,000000006304669018,,Kerbs Drivers Wide Fit / Kerbs Drivers Wide Fit 10,000000006304669024-main,Active,,,False,True,,False
+153,000000006304669019,,Kerbs Drivers Wide Fit / Kerbs Drivers Wide Fit 11,000000006304669024-main,Active,,,False,True,,False
+154,000000006304669021,,Kerbs Drivers Wide Fit / Kerbs Drivers Wide Fit 12,000000006304669024-main,Active,,,False,True,,False
+156,000000006304565027,,Scribe Oxford Shoes Standard Fit / Scribe Oxford Shoes Standard Fit 5,000000006304565027-main,Active,,,False,True,,False
+157,000000006304565013,,Scribe Oxford Shoes Standard Fit / Scribe Oxford Shoes Standard Fit 6,000000006304565027-main,Active,,,False,True,,False
+158,000000006304565014,,Scribe Oxford Shoes Standard Fit / Scribe Oxford Shoes Standard Fit 6.5,000000006304565027-main,Active,,,False,True,,False
+159,000000006304565002,,Scribe Oxford Shoes Standard Fit / Scribe Oxford Shoes Standard Fit 7,000000006304565027-main,Active,,,False,True,,False
+160,000000006304565015,,Scribe Oxford Shoes Standard Fit / Scribe Oxford Shoes Standard Fit 7.5,000000006304565027-main,Active,,,False,True,,False
+161,000000006304565003,,Scribe Oxford Shoes Standard Fit / Scribe Oxford Shoes Standard Fit 8,000000006304565027-main,Active,,,False,True,,False
+162,000000006304565016,,Scribe Oxford Shoes Standard Fit / Scribe Oxford Shoes Standard Fit 8.5,000000006304565027-main,Active,,,False,True,,False
+163,000000006304565004,,Scribe Oxford Shoes Standard Fit / Scribe Oxford Shoes Standard Fit 9,000000006304565027-main,Active,,,False,True,,False
+164,000000006304565030,,Scribe Oxford Shoes Standard Fit / Scribe Oxford Shoes Standard Fit 9.5,000000006304565027-main,Active,,,False,True,,False
+165,000000006304565001,,Scribe Oxford Shoes Standard Fit / Scribe Oxford Shoes Standard Fit 10,000000006304565027-main,Active,,,False,True,,False
+166,000000006304565019,,Scribe Oxford Shoes Standard Fit / Scribe Oxford Shoes Standard Fit 10.5,000000006304565027-main,Active,,,False,True,,False
+167,000000006304565021,,Scribe Oxford Shoes Standard Fit / Scribe Oxford Shoes Standard Fit 11,000000006304565027-main,Active,,,False,True,,False
+168,000000006304565022,,Scribe Oxford Shoes Standard Fit / Scribe Oxford Shoes Standard Fit 11.5,000000006304565027-main,Active,,,False,True,,False
+169,000000006304565023,,Scribe Oxford Shoes Standard Fit / Scribe Oxford Shoes Standard Fit 12,000000006304565027-main,Active,,,False,True,,False
+170,000000006304565024,,Scribe Oxford Shoes Standard Fit / Scribe Oxford Shoes Standard Fit 12.5,000000006304565027-main,Active,,,False,True,,False
+171,000000006304565025,,Scribe Oxford Shoes Standard Fit / Scribe Oxford Shoes Standard Fit 13,000000006304565027-main,Active,,,False,True,,False
+173,000000006304565026,,Scribe Oxford Shoes Wide Fit / Scribe Oxford Shoes Wide Fit 4,000000006304565026-main,Active,,,False,True,,False
+174,000000006304565017,,Scribe Oxford Shoes Wide Fit / Scribe Oxford Shoes Wide Fit 5,000000006304565026-main,Active,,,False,True,,False
+175,000000006304565028,,Scribe Oxford Shoes Wide Fit / Scribe Oxford Shoes Wide Fit 5.5,000000006304565026-main,Active,,,False,True,,False
+176,000000006304565007,,Scribe Oxford Shoes Wide Fit / Scribe Oxford Shoes Wide Fit 6,000000006304565026-main,Active,,,False,True,,False
+177,000000006304565029,,Scribe Oxford Shoes Wide Fit / Scribe Oxford Shoes Wide Fit 6.5,000000006304565026-main,Active,,,False,True,,False
+178,000000006304565008,,Scribe Oxford Shoes Wide Fit / Scribe Oxford Shoes Wide Fit 7,000000006304565026-main,Active,,,False,True,,False
+179,000000006304565018,,Scribe Oxford Shoes Wide Fit / Scribe Oxford Shoes Wide Fit 7.5,000000006304565026-main,Active,,,False,True,,False
+180,000000006304565009,,Scribe Oxford Shoes Wide Fit / Scribe Oxford Shoes Wide Fit 8,000000006304565026-main,Active,,,False,True,,False
+181,000000006304565010,,Scribe Oxford Shoes Wide Fit / Scribe Oxford Shoes Wide Fit 8.5,000000006304565026-main,Active,,,False,True,,False
+182,000000006304565011,,Scribe Oxford Shoes Wide Fit / Scribe Oxford Shoes Wide Fit 9,000000006304565026-main,Active,,,False,True,,False
+183,000000006304565012,,Scribe Oxford Shoes Wide Fit / Scribe Oxford Shoes Wide Fit 9.5,000000006304565026-main,Active,,,False,True,,False
+184,000000006304565005,,Scribe Oxford Shoes Wide Fit / Scribe Oxford Shoes Wide Fit 10,000000006304565026-main,Active,,,False,True,,False
+185,000000006304565020,,Scribe Oxford Shoes Wide Fit / Scribe Oxford Shoes Wide Fit 10.5,000000006304565026-main,Active,,,False,True,,False
+186,000000006304565006,,Scribe Oxford Shoes Wide Fit / Scribe Oxford Shoes Wide Fit 11,000000006304565026-main,Active,,,False,True,,False
+187,000000006304565031,,Scribe Oxford Shoes Wide Fit / Scribe Oxford Shoes Wide Fit 12,000000006304565026-main,Active,,,False,True,,False
+189,000000006304682027,,Scribe Loafers Standard Fit / Scribe Loafers Standard Fit 5,000000006304682027-main,Active,,,False,True,,False
+190,000000006304682028,,Scribe Loafers Standard Fit / Scribe Loafers Standard Fit 5.5,000000006304682027-main,Active,,,False,True,,False
+191,000000006304682001,,Scribe Loafers Standard Fit / Scribe Loafers Standard Fit 6,000000006304682027-main,Active,,,False,True,,False
+192,000000006304682002,,Scribe Loafers Standard Fit / Scribe Loafers Standard Fit 6.5,000000006304682027-main,Active,,,False,True,,False
+193,000000006304682003,,Scribe Loafers Standard Fit / Scribe Loafers Standard Fit 7,000000006304682027-main,Active,,,False,True,,False
+194,000000006304682004,,Scribe Loafers Standard Fit / Scribe Loafers Standard Fit 7.5,000000006304682027-main,Active,,,False,True,,False
+195,000000006304682005,,Scribe Loafers Standard Fit / Scribe Loafers Standard Fit 8,000000006304682027-main,Active,,,False,True,,False
+196,000000006304682006,,Scribe Loafers Standard Fit / Scribe Loafers Standard Fit 8.5,000000006304682027-main,Active,,,False,True,,False
+197,000000006304682007,,Scribe Loafers Standard Fit / Scribe Loafers Standard Fit 9,000000006304682027-main,Active,,,False,True,,False
+198,000000006304682025,,Scribe Loafers Standard Fit / Scribe Loafers Standard Fit 9.5,000000006304682027-main,Active,,,False,True,,False
+199,000000006304682008,,Scribe Loafers Standard Fit / Scribe Loafers Standard Fit 10,000000006304682027-main,Active,,,False,True,,False
+200,000000006304682010,,Scribe Loafers Standard Fit / Scribe Loafers Standard Fit 10.5,000000006304682027-main,Active,,,False,True,,False
+201,000000006304682011,,Scribe Loafers Standard Fit / Scribe Loafers Standard Fit 11,000000006304682027-main,Active,,,False,True,,False
+202,000000006304682012,,Scribe Loafers Standard Fit / Scribe Loafers Standard Fit 11.5,000000006304682027-main,Active,,,False,True,,False
+203,000000006304682013,,Scribe Loafers Standard Fit / Scribe Loafers Standard Fit 12,000000006304682027-main,Active,,,False,True,,False
+204,000000006304682014,,Scribe Loafers Standard Fit / Scribe Loafers Standard Fit 12.5,000000006304682027-main,Active,,,False,True,,False
+205,000000006304682015,,Scribe Loafers Standard Fit / Scribe Loafers Standard Fit 13,000000006304682027-main,Active,,,False,True,,False
+207,000000006304682016,,Scribe Loafers Wide Fit / Scribe Loafers Wide Fit 5,000000006304682016-main,Active,,,False,True,,False
+208,000000006304682017,,Scribe Loafers Wide Fit / Scribe Loafers Wide Fit 5.5,000000006304682016-main,Active,,,False,True,,False
+209,000000006304682018,,Scribe Loafers Wide Fit / Scribe Loafers Wide Fit 6,000000006304682016-main,Active,,,False,True,,False
+210,000000006304682019,,Scribe Loafers Wide Fit / Scribe Loafers Wide Fit 6.5,000000006304682016-main,Active,,,False,True,,False
+211,000000006304682020,,Scribe Loafers Wide Fit / Scribe Loafers Wide Fit 7,000000006304682016-main,Active,,,False,True,,False
+212,000000006304682021,,Scribe Loafers Wide Fit / Scribe Loafers Wide Fit 7.5,000000006304682016-main,Active,,,False,True,,False
+213,000000006304682022,,Scribe Loafers Wide Fit / Scribe Loafers Wide Fit 8,000000006304682016-main,Active,,,False,True,,False
+214,000000006304682023,,Scribe Loafers Wide Fit / Scribe Loafers Wide Fit 8.5,000000006304682016-main,Active,,,False,True,,False
+215,000000006304682024,,Scribe Loafers Wide Fit / Scribe Loafers Wide Fit 9,000000006304682016-main,Active,,,False,True,,False
+216,000000006304682029,,Scribe Loafers Wide Fit / Scribe Loafers Wide Fit 9.5,000000006304682016-main,Active,,,False,True,,False
+217,000000006304682009,,Scribe Loafers Wide Fit / Scribe Loafers Wide Fit 10,000000006304682016-main,Active,,,False,True,,False
+218,000000006304682030,,Scribe Loafers Wide Fit / Scribe Loafers Wide Fit 10.5,000000006304682016-main,Active,,,False,True,,False
+219,000000006304682026,,Scribe Loafers Wide Fit / Scribe Loafers Wide Fit 11,000000006304682016-main,Active,,,False,True,,False
+220,000000006304682031,,Scribe Loafers Wide Fit / Scribe Loafers Wide Fit 11.5,000000006304682016-main,Active,,,False,True,,False
+222,000000006304686027,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 5,000000006304686027-main,Active,,,False,True,,False
+223,000000006304686001,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 6,000000006304686027-main,Active,,,False,True,,False
+224,000000006304686002,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 6.5,000000006304686027-main,Active,,,False,True,,False
+225,000000006304686003,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 7,000000006304686027-main,Active,,,False,True,,False
+226,000000006304686004,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 7.5,000000006304686027-main,Active,,,False,True,,False
+227,000000006304686005,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 8,000000006304686027-main,Active,,,False,True,,False
+228,000000006304686006,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 8.5,000000006304686027-main,Active,,,False,True,,False
+229,000000006304686007,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 9,000000006304686027-main,Active,,,False,True,,False
+230,000000006304686028,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 9.5,000000006304686027-main,Active,,,False,True,,False
+231,000000006304686017,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 10,000000006304686027-main,Active,,,False,True,,False
+232,000000006304686019,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 10.5,000000006304686027-main,Active,,,False,True,,False
+233,000000006304686020,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 11,000000006304686027-main,Active,,,False,True,,False
+234,000000006304686021,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 11.5,000000006304686027-main,Active,,,False,True,,False
+235,000000006304686022,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 12,000000006304686027-main,Active,,,False,True,,False
+236,000000006304686023,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 12.5,000000006304686027-main,Active,,,False,True,,False
+237,000000006304686024,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 13,000000006304686027-main,Active,,,False,True,,False
+240,000000006304686025,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 4,000000006304686025-main,Active,,,False,True,,False
+241,000000006304686026,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 4.5,000000006304686025-main,Active,,,False,True,,False
+242,000000006304686008,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 5,000000006304686025-main,Active,,,False,True,,False
+243,000000006304686009,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 5.5,000000006304686025-main,Active,,,False,True,,False
+244,000000006304686010,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 6,000000006304686025-main,Active,,,False,True,,False
+245,000000006304686011,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 6.5,000000006304686025-main,Active,,,False,True,,False
+246,000000006304686012,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 7,000000006304686025-main,Active,,,False,True,,False
+247,000000006304686013,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 7.5,000000006304686025-main,Active,,,False,True,,False
+248,000000006304686014,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 8,000000006304686025-main,Active,,,False,True,,False
+249,000000006304686015,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 8.5,000000006304686025-main,Active,,,False,True,,False
+250,000000006304686016,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 9,000000006304686025-main,Active,,,False,True,,False
+252,000000006304686029,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 9.5,000000006304686025-main,Active,,,False,True,,False
+253,000000006304686018,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 10,000000006304686025-main,Active,,,False,True,,False
+254,000000006304686031,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 10.5,000000006304686025-main,Active,,,False,True,,False
+255,TESTRAVI08112021,,TEST RAVI 08-11-2021,TESTRAVI08112021-main,Active,,,False,True,,False
+256,000000006304686030,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 11,000000006304686025-main,Active,,,False,True,,False
+257,000000006304686032,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 12,000000006304686025-main,Active,,,False,True,,False
+258,000000006304686033,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 13,000000006304686025-main,Active,,,False,True,,False
+260,000000006304699013,,Sussex Sneakers Standard Fit / Sussex Sneakers Standard Fit 11,000000006304699013-main,Active,,,False,True,,False
+261,000000006304699014,,Sussex Sneakers Standard Fit / Sussex Sneakers Standard Fit 11.5,000000006304699013-main,Active,,,False,True,,False
+262,000000006304699015,,Sussex Sneakers Standard Fit / Sussex Sneakers Standard Fit 12,000000006304699013-main,Active,,,False,True,,False
+263,000000006304699007,,Sussex Sneakers Standard Fit / Sussex Sneakers Standard Fit 5,000000006304699013-main,Active,,,False,True,,False
+264,000000006304699008,,Sussex Sneakers Standard Fit / Sussex Sneakers Standard Fit 5.5,000000006304699013-main,Active,,,False,True,,False
+265,000000006304699001,,Sussex Sneakers Standard Fit / Sussex Sneakers Standard Fit 6,000000006304699013-main,Active,,,False,True,,False
+266,000000006304699002,,Sussex Sneakers Standard Fit / Sussex Sneakers Standard Fit 6.5,000000006304699013-main,Active,,,False,True,,False
+267,000000006304699003,,Sussex Sneakers Standard Fit / Sussex Sneakers Standard Fit 7,000000006304699013-main,Active,,,False,True,,False
+268,000000006304699004,,Sussex Sneakers Standard Fit / Sussex Sneakers Standard Fit 7.5,000000006304699013-main,Active,,,False,True,,False
+269,000000006304699005,,Sussex Sneakers Standard Fit / Sussex Sneakers Standard Fit 8,000000006304699013-main,Active,,,False,True,,False
+270,000000006304699009,,Sussex Sneakers Standard Fit / Sussex Sneakers Standard Fit 8.5,000000006304699013-main,Active,,,False,True,,False
+271,000000006304699006,,Sussex Sneakers Standard Fit / Sussex Sneakers Standard Fit 9,000000006304699013-main,Active,,,False,True,,False
+272,000000006304699010,,Sussex Sneakers Standard Fit / Sussex Sneakers Standard Fit 9.5,000000006304699013-main,Active,,,False,True,,False
+273,000000006304699011,,Sussex Sneakers Standard Fit / Sussex Sneakers Standard Fit 10,000000006304699013-main,Active,,,False,True,,False
+274,000000006304699012,,Sussex Sneakers Standard Fit / Sussex Sneakers Standard Fit 10.5,000000006304699013-main,Active,,,False,True,,False
+276,000000006304629012,,Player Sneakers Standard Fit / Player Sneakers Standard Fit 5,000000006304629012-main,Active,,,False,True,,False
+277,000000006304629013,,Player Sneakers Standard Fit / Player Sneakers Standard Fit 5.5,000000006304629012-main,Active,,,False,True,,False
+278,000000006304629001,,Player Sneakers Standard Fit / Player Sneakers Standard Fit 6,000000006304629012-main,Active,,,False,True,,False
+279,000000006304629002,,Player Sneakers Standard Fit / Player Sneakers Standard Fit 6.5,000000006304629012-main,Active,,,False,True,,False
+280,000000006304629003,,Player Sneakers Standard Fit / Player Sneakers Standard Fit 7,000000006304629012-main,Active,,,False,True,,False
+281,000000006304629004,,Player Sneakers Standard Fit / Player Sneakers Standard Fit 7.5,000000006304629012-main,Active,,,False,True,,False
+282,000000006304629005,,Player Sneakers Standard Fit / Player Sneakers Standard Fit 8,000000006304629012-main,Active,,,False,True,,False
+283,000000006304629006,,Player Sneakers Standard Fit / Player Sneakers Standard Fit 8.5,000000006304629012-main,Active,,,False,True,,False
+284,000000006304629007,,Player Sneakers Standard Fit / Player Sneakers Standard Fit 9,000000006304629012-main,Active,,,False,True,,False
+285,000000006304629008,,Player Sneakers Standard Fit / Player Sneakers Standard Fit 9.5,000000006304629012-main,Active,,,False,True,,False
+286,000000006304629009,,Player Sneakers Standard Fit / Player Sneakers Standard Fit 10,000000006304629012-main,Active,,,False,True,,False
+287,000000006304629010,,Player Sneakers Standard Fit / Player Sneakers Standard Fit 10.5,000000006304629012-main,Active,,,False,True,,False
+288,000000006304629011,,Player Sneakers Standard Fit / Player Sneakers Standard Fit 11,000000006304629012-main,Active,,,False,True,,False
+289,000000006304629014,,Player Sneakers Standard Fit / Player Sneakers Standard Fit 11.5,000000006304629012-main,Active,,,False,True,,False
+290,000000006304629015,,Player Sneakers Standard Fit / Player Sneakers Standard Fit 12,000000006304629012-main,Active,,,False,True,,False
+292,000000006304629016,,Player Sneakers Standard Fit / Player Sneakers Standard Fit 12.5,000000006304629012-main,Active,,,False,True,,False
+293,000000006304629017,,Player Sneakers Standard Fit / Player Sneakers Standard Fit 13,000000006304629012-main,Active,,,False,True,,False
+296,000000006304574011,,Raise Sneakers Standard Fit / Raise Sneakers Standard Fit 5,000000006304574011-main,Active,,,False,True,,False
+297,000000006304574013,,Raise Sneakers Standard Fit / Raise Sneakers Standard Fit 5.5,000000006304574011-main,Active,,,False,True,,False
+298,000000006304574007,,Raise Sneakers Standard Fit / Raise Sneakers Standard Fit 6,000000006304574011-main,Active,,,False,True,,False
+300,000000006304574008,,Raise Sneakers Standard Fit / Raise Sneakers Standard Fit 6.5,000000006304574011-main,Active,,,False,True,,False
+301,000000006304574001,,Raise Sneakers Standard Fit / Raise Sneakers Standard Fit 7,000000006304574011-main,Active,,,False,True,,False
+302,000000006304574009,,Raise Sneakers Standard Fit / Raise Sneakers Standard Fit 7.5,000000006304574011-main,Active,,,False,True,,False
+303,000000006304574002,,Raise Sneakers Standard Fit / Raise Sneakers Standard Fit 8,000000006304574011-main,Active,,,False,True,,False
+304,testing26123A,,tetsing26123AC testing26123A,testing26123A-main,Active,,,False,True,,False
+306,Brown-1,,Shirts Brown,Black-2-main,Active,,,False,True,,False
+308,MIND-WL-HPB,,Masterz Wireless Headphones Bluetooth Blue,MIND-WL-HPB-main,Active,,,False,True,,False
+310,3pant,,3pant,3pant-main,Active,,,False,True,,False
+311,pro-111-123,,pro Red,pro-111-123-main,Active,,,False,True,,False
+313,MIND-WL-MSE-RED1,,Masterz Wireless Mouse Red,MIND-WL-MSE-RED1-main,Active,,,False,True,,False
+314,MIND-WL-MSE-WHITE1,,Masterz Wireless Mouse White,MIND-WL-MSE-RED1-main,Active,,,False,True,,False
+316,JAI-RAVI,,Jai Rai,JAI-RAVI-main,Active,,,False,True,,False
+318,MIND-WL-HP,,Masterz Wireless Headphones& Blue,MIND-WL-HP-main,Active,,,False,True,,False
+319,403,,Early Autumn Denim Canvas Shoes -Test / blue · 7.5,early-autumn-denim-canvas-shoes,Active,,,False,True,,False
+321,MIND-WL-HP2X,,Masterz Wireless Headphones Bluetooth Bundle Blue,MIND-WL-HP2X-main,Active,,,False,True,,False
+323,test-no-variant,,TEST PRODUCT NO VARIATION,test-no-variant-main,Active,,,False,True,,False
+325,2670320615-1677154209895-1,,Test Laz UK Silver,2670320615-1677154209895-1-main,Active,,,False,True,,False
+326,2670320615-1677154209895-0,,Test Laz UK Blak,2670320615-1677154209895-1-main,Active,,,False,True,,False
+327,2670320615-1677154209895-3,,Test Laz US Silver,2670320615-1677154209895-1-main,Active,,,False,True,,False
+329,MY Stabilizer,,Sony,MY Stabilizer-main,Active,,,False,True,,False
+331,VariationTwoTestSKU,,T Shirts Catalog 12lbs,VariationTwoTestSKU-main,Active,,,False,True,,False
+332,2670320615-1677154209895-2,,Test Laz US Blak,2670320615-1677154209895-1-main,Active,,,False,True,,False
+334,fg,,testcolor fullhands green,fg-main,Active,,,False,True,,False
+335,hr,,testcolor halfhands red,fg-main,Active,,,False,True,,False
+336,fr,,testcolor fullhands red,fg-main,Active,,,False,True,,False
+337,hg,,testcolor halfhands green,fg-main,Active,,,False,True,,False
+339,MIND-WL-MSE-WHITE,,Masterz Wireless Mouse White,MIND-WL-MSE-WHITE-main,Active,,,False,True,,False
+340,TestOneVarSKU,,T Shirts Catalog 60lbs,VariationTwoTestSKU-main,Active,,,False,True,,False
+342,TesttestOne,,T Shirts Catalog Two test WhiteTest,TesttestOne-main,Active,,,False,True,,False
+343,VariationTesttest,,T Shirts Catalog Two test Blacktest,TesttestOne-main,Active,,,False,True,,False
+345,MIND-WL-MSE6,,Masterz Wireless Mouse6,MIND-WL-MSE6-main,Active,,,False,True,,False
+347,TEST-VARIANT-WHITE-L,,TEST MULTI VARIANT PRODUCT White L,TEST-VARIANT-WHITE-L-main,Active,,,False,True,,False
+349,pross12339482,,prosss #847894,pross12339482-main,Active,,,False,True,,False
+351,8885019320415,,"Mind Matters EXTREME Micro SD Card 16GB, 32GB, 64GB UHS-I U3 up to 170MB/s FREE READER & TRAVEL CASE 128GB Micro SDXC",8885019320415-main,Active,,,False,True,,False
+352,varskuv1,,test143 varv1,varskuv1-main,Active,,,False,True,,False
+353,TEST-VARIANT-RED-L,,TEST MULTI VARIANT PRODUCT Red L,TEST-VARIANT-WHITE-L-main,Active,,,False,True,,False
+355,pross1233948297,,pross #847894,pross1233948297-main,Active,,,False,True,,False
+357,8885019320392,,"Mind Matters EXTREME Micro SD Card 16GB, 32GB, 64GB UHS-I U3 up to 170MB/s FREE READER & TRAVEL CASE 32Gb Micro SDXC",8885019320415-main,Active,,,False,True,,False
+358,8885019320385,,"Mind Matters EXTREME Micro SD Card 16GB, 32GB, 64GB UHS-I U3 up to 170MB/s FREE READER & TRAVEL CASE 16GB Micro SDXC",8885019320415-main,Active,,,False,True,,False
+359,8885019320422,,"Mind Matters EXTREME Micro SD Card 16GB, 32GB, 64GB UHS-I U3 up to 170MB/s FREE READER & TRAVEL CASE 256GB Micro SDXC",8885019320415-main,Active,,,False,True,,False
+360,NOODLES-123456,,LEANguini Alfredo MontAmoré,NOODLES-123456-main,Active,,,False,True,,False
+362,TESTLaz002,,Tshirt Test UK:6,TESTLaz002-main,Active,,,False,True,,False
+363,TESTLaz001,,Tshirt Test UK:12,TESTLaz002-main,Active,,,False,True,,False
+365,MSTRZ-MSEZ,,Masterz Basic Wireless Mouse,MSTRZ-MSEZ-main,Active,,,False,True,,False
+367,MIND-WL-MSE-WHITE2,,Masterz Wireless Mouse Main White,MIND-WL-MSE-WHITE2-main,Active,,,False,True,,False
+369,Woocommerce141221,,Woocommerce141221,Woocommerce141221-main,Active,,,False,True,,False
+371,TEST-CHNG,,testing changes,TEST-CHNG-main,Active,,,False,True,,False
+373,MIND-WL-MSE,,Masterz Wireless Mouse Ver 2,MIND-WL-MSE-main,Active,,,False,True,,False
+375,MIND-WL-MSE-WHITE3,,Masterz Wireless Mouse White,MIND-WL-MSE-WHITE3-main,Active,,,False,True,,False
+377,MIND-SO-FA,,Masterz Sofa White,MIND-SO-FA-main,Active,,,False,True,,False
+378,BlackColorSKU,,T Shirt Product Test Lazada Black 40,WhiteColorSKU-main,Active,,,False,True,,False
+379,pro-111,,pro Red,pro-111-main,Active,,,False,True,,False
+382,SKUWhiteOnetest,,Variant T Shirts TestOneVar,SKUWhiteOnetest-main,Active,,,False,True,,False
+384,HDIAMOND,,Diamondtesting,HDIAMOND-main,Active,,,False,True,,False
+386,MIND-WL-MSE-RED,,Masterz Wireless Keyboard Red,MIND-WL-MSE-RED-main,Active,,,False,True,,False
+387,MIND-WL-MSE-BLE,,Masterz Wireless Keyboard Blue,MIND-WL-MSE-RED-main,Active,,,False,True,,False
+389,40001,,Charger iPhone 6S Black & White,40001-main,Active,,,False,True,,False
+391,pross123,,pross #847894,pross123-main,Active,,,False,True,,False
+393,111111,,ItemTest,111111-main,Active,,,False,True,,False
+395,MSTRZ-MSEZ2,,Masterz Basic Wireless Mouse White,MSTRZ-MSEZ2-main,Active,,,False,True,,False
+396,2675157186-1677568199122-3,,Test Lazada T Shirt Green US:14,2675157186-1677568199122-3-main,Active,,,False,True,,False
+397,RedSKU001,,Test Lazada T Shirt Red US:16,2675157186-1677568199122-3-main,Active,,,False,True,,False
+398,2675157186-1677568199122-2,,Test Lazada T Shirt Green US:16,2675157186-1677568199122-3-main,Active,,,False,True,,False
+400,VariationTwoTestSKU2,,T Shirts Catalog One TWOSKU,VariationTwoTestSKU2-main,Active,,,False,True,,False
+401,TestOneVarSKU1,,T Shirts Catalog One OneSKU,VariationTwoTestSKU2-main,Active,,,False,True,,False
+404,MIND-WL-HP-CLONE060623,,Masterz Wireless Headphones v1 Test Blue,MIND-WL-HP-CLONE060623-main,Active,,,False,True,,False
+406,MSTRZ-MSEW,,Masterz Basic Wireless Mouse Mouse White,MSTRZ-MSEW-main,Active,,,False,True,,False
+407,SIMPLEX-BROWN,,Simplex Audio Headphones Brown,SIMPLEX-BROWN-main,Active,,,False,True,,False
+408,SIMPLEX-RED,,Simplex Audio Headphones Red,SIMPLEX-BROWN-main,Active,,,False,True,,False
+409,SIMPLEX-BLACK,,Simplex Audio Headphones Black,SIMPLEX-BROWN-main,Active,,,False,True,,False
+411,sfdf,,sf,sfdf-main,Active,,,False,True,,False
+413,MIND-WL-MSEX,,Masterz Wireless Mouse+====***,MIND-WL-MSEX-main,Active,,,False,True,,False
+416,a,,Masterz Wireless Keyboard,a-main,Active,,,False,True,,False
+418,testing25022,,testing25022,testing25022-main,Active,,,False,True,,False
+419,MSTRZ-MSE,,Masterz Basic Wireless Mouse,MSTRZ-MSE-main,Active,,,False,True,,False
+421,TESTLAZSKU,,Test Lazada Product Blue,TESTLAZSKU-main,Active,,,False,True,,False
+424,TESTBROWNTEST125,,Test Lazada Product BROWN,TESTBROWNTEST125-main,Active,,,False,True,,False
+425,TestBlackSKU464,,Test Lazada Product Black,TESTBROWNTEST125-main,Active,,,False,True,,False
+427,VariantSKU002,,Test Lazada Variation Product TestVariationLaz002,VariantSKU002-main,Active,,,False,True,,False
+428,VariantSKU001,,Test Lazada Variation Product TestVariationLaz001,VariantSKU002-main,Active,,,False,True,,False
+430,testing220922,,testing220922,testing220922-main,Active,,,False,True,,False
+432,chase test 8,,test product test,chase test 8-main,Active,,,False,True,,False
+434,testing24522va-black,,testing24522v Black,testing24522va-black-main,Active,,,False,True,,False
+435,WhiteVarSKU001,,Test Lazada Product White,WhiteVarSKU001-main,Active,,,False,True,,False
+436,BlackVar85852,,Test Lazada Product Black,WhiteVarSKU001-main,Active,,,False,True,,False
+438,testing SKU Image,,testing240222 Image,testing SKU Image-main,Active,,,False,True,,False
+440,LazVar103,,Test Variant Product 001 Gold L,LazVar103-main,Active,,,False,True,,False
+441,LazVar102,,Test Variant Product 001 Blue L,LazVar103-main,Active,,,False,True,,False
+442,LazVar101,,Test Variant Product 001 Red L,LazVar103-main,Active,,,False,True,,False
+444,WhiteColorSKU,,T Shirt Product Test Lazada White 40,WhiteColorSKU-main,Active,,,False,True,,False
+445,Test SKU Image Upload,,Test Image Upload,Test SKU Image Upload-main,Active,,,False,True,,False
+448,1shirt,,1shirtshirt,1shirt-main,Active,,,False,True,,False
+450,Silver-Large-4,,Test Multi variant L Silver,Silver-Large-4-main,Active,,,False,True,,False
+451,SKU-Green,,Test Variant Product Lazada Green,SKU-Green-main,Active,,,False,True,,False
+452,SKU-Grey,,Test Variant Product Lazada Grey,SKU-Green-main,Active,,,False,True,,False
+453,SKU-Gold,,Test Variant Product Lazada Gold,SKU-Green-main,Active,,,False,True,,False
+455,Silver--Medium-2,,Test Multi variant M Silver,Silver-Large-4-main,Active,,,False,True,,False
+456,Black-Large-2,,Test Multi variant L Black,Silver-Large-4-main,Active,,,False,True,,False
+457,Black-1,,Test Multi variant M Black,Silver-Large-4-main,Active,,,False,True,,False
+459,BLACK0010,,Test Multi variant XL Black,BLACK0010-main,Active,,,False,True,,False
+460,SILVERUS00100,,Test Multi variant XL Silver,BLACK0010-main,Active,,,False,True,,False
+461,SilverUS00200,,Test Multi variant XS Silver,BLACK0010-main,Active,,,False,True,,False
+462,BLAKUS00100,,Test Multi variant XS Black,BLACK0010-main,Active,,,False,True,,False
+464,Hakiim1234,,HAKIIMEarbuds,Hakiim1234-main,Active,,,False,True,,False
+466,Lazvar103,,Test Laz Product 003 XXL,Lazvar103-main,Active,,,False,True,,False
+467,TestLaz14,,Test Laz Variant Product 002 Variation 2 32 GB,TestLaz14-main,Active,,,False,True,,False
+468,TestLaz15,,Test Laz Variant Product 002 Variation 2 64 GB,TestLaz14-main,Active,,,False,True,,False
+469,TestLaz12,,Test Laz Variant Product 002 Variation 1 64 GB,TestLaz14-main,Active,,,False,True,,False
+470,TestLaz13,,Test Laz Variant Product 002 Variation 2 16 GB,TestLaz14-main,Active,,,False,True,,False
+471,TestLaz10,,Test Laz Variant Product 002 Variation 1 16 GB,TestLaz14-main,Active,,,False,True,,False
+472,TestLaz11,,Test Laz Variant Product 002 Variation 1 32 GB,TestLaz14-main,Active,,,False,True,,False
+474,testing412023,,testing412023,testing412023-main,Active,,,False,True,,False
+476,Black8585,,Test variant Product 27022023 Black,Black8585-main,Active,,,False,True,,False
+478,WhiteVarSKU002,,Test Lazada Product Test One White,WhiteVarSKU002-main,Active,,,False,True,,False
+479,Lazvar101,,Test Laz Product 003 L,Lazvar103-main,Active,,,False,True,,False
+480,Lazvar102,,Test Laz Product 003 XL,Lazvar103-main,Active,,,False,True,,False
+482,TESTSKUTest87546,,Test Group Package Black,TESTSKUTest87546-main,Active,,,False,True,,False
+483,TESTSKUTest875475,,Test Group Package Blue,TESTSKUTest87546-main,Active,,,False,True,,False
+484,TESTSKUTest87547,,Test Group Package Brown,TESTSKUTest87546-main,Active,,,False,True,,False
+486,123456SKU2,,Test Product T SHirt Int:XS Green,123456SKU2-main,Active,,,False,True,,False
+487,BlackVar858525,,Test Lazada Product Test One Black,WhiteVarSKU002-main,Active,,,False,True,,False
+489,MIND-WL-MSE-P,,Masterz Wireless Mouse,MIND-WL-MSE-P-main,Active,,,False,True,,False
+491,123456SKU3,,Test Product T SHirt Int:XS Red,123456SKU2-main,Active,,,False,True,,False
+492,123456SKU,,Test Product T SHirt Int:XL Green,123456SKU2-main,Active,,,False,True,,False
+493,123456SKU1,,Test Product T SHirt Int:XL Red,123456SKU2-main,Active,,,False,True,,False
+495,testing24522,,testing24522,testing24522-main,Active,,,False,True,,False
+497,SKU-White-L,,T SHirts Multi Variant Test L White,SKU-White-L-main,Active,,,False,True,,False
+498,SKU-Blue-L,,T SHirts Multi Variant Test L Blue,SKU-White-L-main,Active,,,False,True,,False
+499,Test Two SKU,,Test Product Shopee,Test Two SKU-main,Active,,,False,True,,False
+501,3shirt3pants_Test,,3shirt3pants Test Edit,3shirt3pants_Test-main,Active,,,False,True,,False
+504,WhiteVar25252,,Test Product SKU TestWhite,WhiteVar25252-main,Active,,,False,True,,False
+505,tEST007,,Test Product SKU TestBlack,WhiteVar25252-main,Active,,,False,True,,False
+507,testing220922G1,,testing220922G testing220922G1,testing220922G1-main,Active,,,False,True,,False
+508,testing220922G2,,testing220922G testing220922G2,testing220922G1-main,Active,,,False,True,,False
+510,3shirttest,,3shirtshirt,3shirttest-main,Active,,,False,True,,False
+511,BLACK00001,,Test Multi variant UK Black,BLACK00001-main,Active,,,False,True,,False
+512,SilverUS002,,Test Multi variant US Silver,BLACK00001-main,Active,,,False,True,,False
+513,SILVERUS001,,Test Multi variant UK Silver,BLACK00001-main,Active,,,False,True,,False
+514,BLAKUS001,,Test Multi variant US Black,BLACK00001-main,Active,,,False,True,,False
+516,2344004069-1653632822460-1,,Pant Test Product Blue,2344004069-1653632822460-1-main,Active,,,False,True,,False
+517,2344004069-1653632822460-0,,Pant Test Product Red,2344004069-1653632822460-1-main,Active,,,False,True,,False
+520,TestTwoLaz,,Test Lazada Variant One TestOneVariation,TestTwoLaz-main,Active,,,False,True,,False
+521,TestOneLaz,,Test Lazada Variant One TestTwoVariation,TestTwoLaz-main,Active,,,False,True,,False
+523,TestSKUOne,,Test Lazada Product Catalog Brown,TestSKUOne-main,Active,,,False,True,,False
+524,TestSKUTwo,,Test Lazada Product Catalog Black,TestSKUOne-main,Active,,,False,True,,False
+526,50001,,Apple Charging Box Blue,50001-main,Active,,,False,True,,False
+527,testing24112022,,testing24112022,testing24112022-main,Active,,,False,True,,False
+529,TRIPOD T 30637-TEST,,K & F Concept SA254M2 DSLR Camera Aluminum Tripod with Monopod and Ball Head Kit,TRIPOD T 30637-TEST-main,Active,,,False,True,,False
+532,BLACK001,,Test Group Package Black,Brown002-main,Active,,,False,True,,False
+534,KILLER-CAT IMG Description Test One,,Killer Cat BIG,KILLER-CAT IMG Description Test One-main,Active,,,False,True,,False
+536,KILLER-CAT IMG Description Test,,Killer Cat BIG,KILLER-CAT IMG Description Test-main,Active,,,False,True,,False
+538,SKU-BrownOne,,Test Variant Color Brown,SKU-BrownOne-main,Active,,,False,True,,False
+539,SKU-Blackone,,Test Variant Color Black,SKU-BrownOne-main,Active,,,False,True,,False
+541,4may2022A,,4may2022test,4may2022A-main,Active,,,False,True,,False
+543,XL-WHITE-6,,TEST MULTI VARIANTS PRODUCT Latest-edit / M / BLACK XL WHITE,XL-WHITE-6-main,Active,,,False,True,,False
+544,TEST-MULTI-VARIANT-2,,TEST MULTI VARIANTS PRODUCT Latest-edit / M / BLACK M WHITE,XL-WHITE-6-main,Active,,,False,True,,False
+545,TEST-MULTI-VARIANT-4,,TEST MULTI VARIANTS PRODUCT Latest-edit / M / BLACK L WHITE,XL-WHITE-6-main,Active,,,False,True,,False
+546,WhiteTestSKU,,Test Lazada Variant Product One White,WhiteTestSKU-main,Active,,,False,True,,False
+548,Green-2,,Ribbon Test Product Green,Red-1-main,Active,,,False,True,,False
+549,TEST-MULTI-VARIANT-3,,TEST MULTI VARIANTS PRODUCT Latest-edit / M / BLACK L BLACK,XL-WHITE-6-main,Active,,,False,True,,False
+550,Red-1,,Ribbon Test Product Red,Red-1-main,Active,,,False,True,,False
+551,M-RED-3,,TEST MULTI VARIANTS PRODUCT Latest-edit / M / BLACK M RED,XL-WHITE-6-main,Active,,,False,True,,False
+552,XL-RED-9,,TEST MULTI VARIANTS PRODUCT Latest-edit / M / BLACK XL RED,XL-WHITE-6-main,Active,,,False,True,,False
+553,XL-BLACK-5,,TEST MULTI VARIANTS PRODUCT Latest-edit / M / BLACK XL BLACK,XL-WHITE-6-main,Active,,,False,True,,False
+554,L-RED-6,,TEST MULTI VARIANTS PRODUCT Latest-edit / M / BLACK L RED,XL-WHITE-6-main,Active,,,False,True,,False
+556,testing02112022A,,testing02112022A,testing02112022A-main,Active,,,False,True,,False
+558,SUD-T2-BLK-80956,,Test Lazada Prdduct CIN7,SUD-T2-BLK-80956-main,Active,,,False,True,,False
+560,test235701,,HAKIIMEarbuds,test235701-main,Active,,,False,True,,False
+563,testing240222,,testing240222,testing240222-main,Active,,,False,True,,False
+565,Test Laz001,,Test Lazada Product,Test Laz001-main,Active,,,False,True,,False
+567,Test Laz003,,Test Lazada Product 003,Test Laz003-main,Active,,,False,True,,False
+569,TESY6446464,,Test Product,TESY6446464-main,Active,,,False,True,,False
+571,KILLER-CAT,,Killer Cat BIG,KILLER-CAT-main,Active,,,False,True,,False
+573,BERT-ROCK,,Bert Testing QA Blue,BERT-ROCK-main,Active,,,False,True,,False
+575,KILLER-CAT-1,,Killer Cat BIG,KILLER-CAT-1-main,Active,,,False,True,,False
+577,varsku1,,test111 var1,varsku1-main,Active,,,False,True,,False
+579,ERASER-BD,,BIRTHDAY Present Test,ERASER-BD-main,Active,,,False,True,,False
+581,55-AKKH-58QL,,"Test variant Product (Blue, 12)",55-AKKH-58QL-main,Active,,,False,True,,False
+583,7X-UCB5-F7VF,,"Test variant Product (Green, 24)",7X-UCB5-F7VF-main,Active,,,False,True,,False
+585,HM-EGSQ-XYAR,,"Test variant Product (White, 12)",HM-EGSQ-XYAR-main,Active,,,False,True,,False
+587,AR-MDR4-9RPT,,"Test variant Product (White, 24)",AR-MDR4-9RPT-main,Active,,,False,True,,False
+589,I0-SQWM-3JLN,,"Test variant Product (Red, 24)",I0-SQWM-3JLN-main,Active,,,False,True,,False
+591,MK-V2ZT-LO7L,,"Test variant Product (Blue, 24)",MK-V2ZT-LO7L-main,Active,,,False,True,,False
+593,P4-WD0S-36IP,,"Test variant Product (Red, 12)",P4-WD0S-36IP-main,Active,,,False,True,,False
+596,SKU-Black,,Test Audio Head Phones (Black),SKU-Black-main,Active,,,False,True,,False
+598,SKU-RED,,Test Audio Head Phones (Red),SKU-RED-main,Active,,,False,True,,False
+600,Q7-QYHC-99FD,,Test Audio Head Phones,Q7-QYHC-99FD-main,Active,,,False,True,,False
+601,MM202206,,Sell & Chill Media Lens,MM202206-main,Active,,,False,True,,False
+602,SKU-Brown,,Test Audio Head Phones (Brown),SKU-Brown-main,Active,,,False,True,,False
+603,White-3,,Ribbon Test Product White,Red-1-main,Active,,,False,True,,False
+604,TEST-VARIANT-AMAZON,,Test variant Product,TEST-VARIANT-AMAZON-main,Active,1.0,,False,True,,False
+605,000000006304765004,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 4,000000006304765001-main,Active,,,False,True,,False
+606,000000006304765005,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 4.5,000000006304765001-main,Active,,,False,True,,False
+607,000000006304765006,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 5,000000006304765001-main,Active,,,False,True,,False
+608,000000006304765009,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 5.5,000000006304765001-main,Active,,,False,True,,False
+609,000000006304765007,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 6,000000006304765001-main,Active,,,False,True,,False
+610,000000006304765010,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 6.5,000000006304765001-main,Active,,,False,True,,False
+611,000000006304765011,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 7,000000006304765001-main,Active,,,False,True,,False
+612,000000006304765012,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 7.5,000000006304765001-main,Active,,,False,True,,False
+613,000000006304765013,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 8,000000006304765001-main,Active,,,False,True,,False
+614,000000006304765014,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 9,000000006304765001-main,Active,,,False,True,,False
+616,000000006304777001,,Emblem Loafers Standard Fit / Emblem Loafers Standard Fit 2,000000006304777001-main,Active,,,False,True,,False
+617,000000006304777012,,Emblem Loafers Standard Fit / Emblem Loafers Standard Fit 2.5,000000006304777001-main,Active,,,False,True,,False
+618,000000006304777002,,Emblem Loafers Standard Fit / Emblem Loafers Standard Fit 3,000000006304777001-main,Active,,,False,True,,False
+619,000000006304777003,,Emblem Loafers Standard Fit / Emblem Loafers Standard Fit 3.5,000000006304777001-main,Active,,,False,True,,False
+620,000000006304777006,,Emblem Loafers Standard Fit / Emblem Loafers Standard Fit 4,000000006304777001-main,Active,,,False,True,,False
+621,000000006304777004,,Emblem Loafers Standard Fit / Emblem Loafers Standard Fit 4.5,000000006304777001-main,Active,,,False,True,,False
+622,000000006304777007,,Emblem Loafers Standard Fit / Emblem Loafers Standard Fit 5,000000006304777001-main,Active,,,False,True,,False
+623,000000006304777005,,Emblem Loafers Standard Fit / Emblem Loafers Standard Fit 5.5,000000006304777001-main,Active,,,False,True,,False
+624,000000006304777008,,Emblem Loafers Standard Fit / Emblem Loafers Standard Fit 6,000000006304777001-main,Active,,,False,True,,False
+625,000000006304777009,,Emblem Loafers Standard Fit / Emblem Loafers Standard Fit 6.5,000000006304777001-main,Active,,,False,True,,False
+626,000000006304777010,,Emblem Loafers Standard Fit / Emblem Loafers Standard Fit 7,000000006304777001-main,Active,,,False,True,,False
+627,000000006304777013,,Emblem Loafers Standard Fit / Emblem Loafers Standard Fit 7.5,000000006304777001-main,Active,,,False,True,,False
+628,000000006304777011,,Emblem Loafers Standard Fit / Emblem Loafers Standard Fit 8,000000006304777001-main,Active,,,False,True,,False
+629,000000006304777014,,Emblem Loafers Standard Fit / Emblem Loafers Standard Fit 9,000000006304777001-main,Active,,,False,True,,False
+631,000000006304526007,,Daily Emblem Loafers Standard Fit / Daily Emblem Loafers Standard Fit 2,000000006304526007-main,Active,,,False,True,,False
+632,000000006304526010,,Daily Emblem Loafers Standard Fit / Daily Emblem Loafers Standard Fit 2.5,000000006304526007-main,Active,,,False,True,,False
+633,000000006304526001,,Daily Emblem Loafers Standard Fit / Daily Emblem Loafers Standard Fit 3,000000006304526007-main,Active,,,False,True,,False
+634,000000006304526011,,Daily Emblem Loafers Standard Fit / Daily Emblem Loafers Standard Fit 3.5,000000006304526007-main,Active,,,False,True,,False
+635,000000006304526002,,Daily Emblem Loafers Standard Fit / Daily Emblem Loafers Standard Fit 4,000000006304526007-main,Active,,,False,True,,False
+636,000000006304526003,,Daily Emblem Loafers Standard Fit / Daily Emblem Loafers Standard Fit 4.5,000000006304526007-main,Active,,,False,True,,False
+637,000000006304526004,,Daily Emblem Loafers Standard Fit / Daily Emblem Loafers Standard Fit 5,000000006304526007-main,Active,,,False,True,,False
+638,000000006304526005,,Daily Emblem Loafers Standard Fit / Daily Emblem Loafers Standard Fit 5.5,000000006304526007-main,Active,,,False,True,,False
+639,000000006304526006,,Daily Emblem Loafers Standard Fit / Daily Emblem Loafers Standard Fit 6,000000006304526007-main,Active,,,False,True,,False
+640,000000006304526012,,Daily Emblem Loafers Standard Fit / Daily Emblem Loafers Standard Fit 6.5,000000006304526007-main,Active,,,False,True,,False
+641,000000006304526008,,Daily Emblem Loafers Standard Fit / Daily Emblem Loafers Standard Fit 7,000000006304526007-main,Active,,,False,True,,False
+642,000000006304526013,,Daily Emblem Loafers Standard Fit / Daily Emblem Loafers Standard Fit 7.5,000000006304526007-main,Active,,,False,True,,False
+643,000000006304526009,,Daily Emblem Loafers Standard Fit / Daily Emblem Loafers Standard Fit 8,000000006304526007-main,Active,,,False,True,,False
+644,000000006304526014,,Daily Emblem Loafers Standard Fit / Daily Emblem Loafers Standard Fit 9,000000006304526007-main,Active,,,False,True,,False
+646,000000006304807001,,Emblem Wallet One Size,000000006304807001-main,Active,,,False,True,,False
+648,000000006304786001,,Player Sneakers Standard Fit / Player Sneakers Standard Fit 2,000000006304786001-main,Active,,,False,True,,False
+649,000000006304786008,,Player Sneakers Standard Fit / Player Sneakers Standard Fit 2.5,000000006304786001-main,Active,,,False,True,,False
+650,000000006304786002,,Player Sneakers Standard Fit / Player Sneakers Standard Fit 3,000000006304786001-main,Active,,,False,True,,False
+651,000000006304786003,,Player Sneakers Standard Fit / Player Sneakers Standard Fit 3.5,000000006304786001-main,Active,,,False,True,,False
+652,000000006304786004,,Player Sneakers Standard Fit / Player Sneakers Standard Fit 4,000000006304786001-main,Active,,,False,True,,False
+653,000000006304786007,,Player Sneakers Standard Fit / Player Sneakers Standard Fit 4.5,000000006304786001-main,Active,,,False,True,,False
+654,000000006304786005,,Player Sneakers Standard Fit / Player Sneakers Standard Fit 5,000000006304786001-main,Active,,,False,True,,False
+655,000000006304786009,,Player Sneakers Standard Fit / Player Sneakers Standard Fit 5.5,000000006304786001-main,Active,,,False,True,,False
+656,000000006304786006,,Player Sneakers Standard Fit / Player Sneakers Standard Fit 6,000000006304786001-main,Active,,,False,True,,False
+657,000000006304786010,,Player Sneakers Standard Fit / Player Sneakers Standard Fit 6.5,000000006304786001-main,Active,,,False,True,,False
+658,000000006304786011,,Player Sneakers Standard Fit / Player Sneakers Standard Fit 7,000000006304786001-main,Active,,,False,True,,False
+659,000000006304786012,,Player Sneakers Standard Fit / Player Sneakers Standard Fit 7.5,000000006304786001-main,Active,,,False,True,,False
+660,000000006304786013,,Player Sneakers Standard Fit / Player Sneakers Standard Fit 8,000000006304786001-main,Active,,,False,True,,False
+661,000000006304786014,,Player Sneakers Standard Fit / Player Sneakers Standard Fit 8.5,000000006304786001-main,Active,,,False,True,,False
+662,000000006304786015,,Player Sneakers Standard Fit / Player Sneakers Standard Fit 9,000000006304786001-main,Active,,,False,True,,False
+664,000000006304598007,,Raise Sneakers Standard Fit / Raise Sneakers Standard Fit 2,000000006304598007-main,Active,,,False,True,,False
+665,000000006304598012,,Raise Sneakers Standard Fit / Raise Sneakers Standard Fit 2.5,000000006304598007-main,Active,,,False,True,,False
+666,000000006304598001,,Raise Sneakers Standard Fit / Raise Sneakers Standard Fit 3,000000006304598007-main,Active,,,False,True,,False
+667,000000006304598008,,Raise Sneakers Standard Fit / Raise Sneakers Standard Fit 3.5,000000006304598007-main,Active,,,False,True,,False
+668,000000006304598002,,Raise Sneakers Standard Fit / Raise Sneakers Standard Fit 4,000000006304598007-main,Active,,,False,True,,False
+669,000000006304598009,,Raise Sneakers Standard Fit / Raise Sneakers Standard Fit 4.5,000000006304598007-main,Active,,,False,True,,False
+670,000000006304598003,,Raise Sneakers Standard Fit / Raise Sneakers Standard Fit 5,000000006304598007-main,Active,,,False,True,,False
+671,000000006304598010,,Raise Sneakers Standard Fit / Raise Sneakers Standard Fit 5.5,000000006304598007-main,Active,,,False,True,,False
+672,000000006304598004,,Raise Sneakers Standard Fit / Raise Sneakers Standard Fit 6,000000006304598007-main,Active,,,False,True,,False
+673,000000006304598011,,Raise Sneakers Standard Fit / Raise Sneakers Standard Fit 6.5,000000006304598007-main,Active,,,False,True,,False
+674,000000006304598005,,Raise Sneakers Standard Fit / Raise Sneakers Standard Fit 7,000000006304598007-main,Active,,,False,True,,False
+675,000000006304598013,,Raise Sneakers Standard Fit / Raise Sneakers Standard Fit 7.5,000000006304598007-main,Active,,,False,True,,False
+676,000000006304598006,,Raise Sneakers Standard Fit / Raise Sneakers Standard Fit 8,000000006304598007-main,Active,,,False,True,,False
+677,000000006304598014,,Raise Sneakers Standard Fit / Raise Sneakers Standard Fit 8.5,000000006304598007-main,Active,,,False,True,,False
+678,000000006304598015,,Raise Sneakers Standard Fit / Raise Sneakers Standard Fit 9,000000006304598007-main,Active,,,False,True,,False
+680,000000006304602001,,Emblem Pumps Standard Fit / Emblem Pumps Standard Fit 2,000000006304602001-main,Active,,,False,True,,False
+681,000000006304602007,,Emblem Pumps Standard Fit / Emblem Pumps Standard Fit 2.5,000000006304602001-main,Active,,,False,True,,False
+682,000000006304602002,,Emblem Pumps Standard Fit / Emblem Pumps Standard Fit 3,000000006304602001-main,Active,,,False,True,,False
+683,000000006304602008,,Emblem Pumps Standard Fit / Emblem Pumps Standard Fit 3.5,000000006304602001-main,Active,,,False,True,,False
+684,000000006304602003,,Emblem Pumps Standard Fit / Emblem Pumps Standard Fit 4,000000006304602001-main,Active,,,False,True,,False
+685,000000006304602009,,Emblem Pumps Standard Fit / Emblem Pumps Standard Fit 4.5,000000006304602001-main,Active,,,False,True,,False
+686,000000006304602004,,Emblem Pumps Standard Fit / Emblem Pumps Standard Fit 5,000000006304602001-main,Active,,,False,True,,False
+687,000000006304602010,,Emblem Pumps Standard Fit / Emblem Pumps Standard Fit 5.5,000000006304602001-main,Active,,,False,True,,False
+688,000000006304602005,,Emblem Pumps Standard Fit / Emblem Pumps Standard Fit 6,000000006304602001-main,Active,,,False,True,,False
+689,000000006304602011,,Emblem Pumps Standard Fit / Emblem Pumps Standard Fit 6.5,000000006304602001-main,Active,,,False,True,,False
+690,000000006304602006,,Emblem Pumps Standard Fit / Emblem Pumps Standard Fit 7,000000006304602001-main,Active,,,False,True,,False
+691,000000006304602013,,Emblem Pumps Standard Fit / Emblem Pumps Standard Fit 7.5,000000006304602001-main,Active,,,False,True,,False
+692,000000006304602012,,Emblem Pumps Standard Fit / Emblem Pumps Standard Fit 8,000000006304602001-main,Active,,,False,True,,False
+693,000000006304602014,,Emblem Pumps Standard Fit / Emblem Pumps Standard Fit 8.5,000000006304602001-main,Active,,,False,True,,False
+694,000000006304602015,,Emblem Pumps Standard Fit / Emblem Pumps Standard Fit 9,000000006304602001-main,Active,,,False,True,,False
+696,000000006304650008,,Emblem Sandals Standard Fit / Emblem Sandals Standard Fit 2,000000006304650008-main,Active,,,False,True,,False
+697,000000006304650012,,Emblem Sandals Standard Fit / Emblem Sandals Standard Fit 2.5,000000006304650008-main,Active,,,False,True,,False
+698,000000006304650001,,Emblem Sandals Standard Fit / Emblem Sandals Standard Fit 3,000000006304650008-main,Active,,,False,True,,False
+699,000000006304650009,,Emblem Sandals Standard Fit / Emblem Sandals Standard Fit 3.5,000000006304650008-main,Active,,,False,True,,False
+700,000000006304650002,,Emblem Sandals Standard Fit / Emblem Sandals Standard Fit 4,000000006304650008-main,Active,,,False,True,,False
+701,000000006304650003,,Emblem Sandals Standard Fit / Emblem Sandals Standard Fit 4.5,000000006304650008-main,Active,,,False,True,,False
+702,000000006304650004,,Emblem Sandals Standard Fit / Emblem Sandals Standard Fit 5,000000006304650008-main,Active,,,False,True,,False
+703,000000006304650005,,Emblem Sandals Standard Fit / Emblem Sandals Standard Fit 5.5,000000006304650008-main,Active,,,False,True,,False
+704,000000006304650006,,Emblem Sandals Standard Fit / Emblem Sandals Standard Fit 6,000000006304650008-main,Active,,,False,True,,False
+705,000000006304650010,,Emblem Sandals Standard Fit / Emblem Sandals Standard Fit 6.5,000000006304650008-main,Active,,,False,True,,False
+706,000000006304650007,,Emblem Sandals Standard Fit / Emblem Sandals Standard Fit 7,000000006304650008-main,Active,,,False,True,,False
+707,000000006304650013,,Emblem Sandals Standard Fit / Emblem Sandals Standard Fit 7.5,000000006304650008-main,Active,,,False,True,,False
+708,000000006304650011,,Emblem Sandals Standard Fit / Emblem Sandals Standard Fit 8,000000006304650008-main,Active,,,False,True,,False
+709,000000006304650014,,Emblem Sandals Standard Fit / Emblem Sandals Standard Fit 9,000000006304650008-main,Active,,,False,True,,False
+711,000000006304593004,,Emblem 25mm Belt / Emblem 25mm Belt 75 cm,000000006304593004-main,Active,,,False,True,,False
+712,000000006304593001,,Emblem 25mm Belt / Emblem 25mm Belt 80 cm,000000006304593004-main,Active,,,False,True,,False
+713,000000006304593002,,Emblem 25mm Belt / Emblem 25mm Belt 85 cm,000000006304593004-main,Active,,,False,True,,False
+714,000000006304593003,,Emblem 25mm Belt / Emblem 25mm Belt 90 cm,000000006304593004-main,Active,,,False,True,,False
+715,000000006304593005,,Emblem 25mm Belt / Emblem 25mm Belt 95 cm,000000006304593004-main,Active,,,False,True,,False
+716,000000006304593007,,Emblem 25mm Belt / Emblem 25mm Belt 100 cm,000000006304593004-main,Active,,,False,True,,False
+717,000000006304593006,,Emblem 25mm Belt / Emblem 25mm Belt 105 cm,000000006304593004-main,Active,,,False,True,,False
+718,000000006304593009,,Emblem 25mm Belt / Emblem 25mm Belt 65 cm,000000006304593004-main,Active,,,False,True,,False
+719,000000006304593008,,Emblem 25mm Belt / Emblem 25mm Belt 70 cm,000000006304593004-main,Active,,,False,True,,False
+721,000000006304762001,,Emblem Belt / Emblem Belt 75 cm,000000006304762001-main,Active,,,False,True,,False
+722,000000006304762002,,Emblem Belt / Emblem Belt 80 cm,000000006304762001-main,Active,,,False,True,,False
+723,000000006304762003,,Emblem Belt / Emblem Belt 85 cm,000000006304762001-main,Active,,,False,True,,False
+724,000000006304762005,,Emblem Belt / Emblem Belt 90 cm,000000006304762001-main,Active,,,False,True,,False
+725,000000006304762006,,Emblem Belt / Emblem Belt 95 cm,000000006304762001-main,Active,,,False,True,,False
+726,000000006304762007,,Emblem Belt / Emblem Belt 100 cm,000000006304762001-main,Active,,,False,True,,False
+727,000000006304762004,,Emblem Belt / Emblem Belt 105 cm,000000006304762001-main,Active,,,False,True,,False
+728,000000006304762008,,Emblem Belt / Emblem Belt 70 cm,000000006304762001-main,Active,,,False,True,,False
+730,000000006304763001,,Emblem Belt / Emblem Belt 75 cm,000000006304763001-main,Active,,,False,True,,False
+731,000000006304763002,,Emblem Belt / Emblem Belt 80 cm,000000006304763001-main,Active,,,False,True,,False
+732,000000006304763003,,Emblem Belt / Emblem Belt 85 cm,000000006304763001-main,Active,,,False,True,,False
+733,000000006304763005,,Emblem Belt / Emblem Belt 90 cm,000000006304763001-main,Active,,,False,True,,False
+734,000000006304763006,,Emblem Belt / Emblem Belt 95 cm,000000006304763001-main,Active,,,False,True,,False
+735,000000006304763007,,Emblem Belt / Emblem Belt 100 cm,000000006304763001-main,Active,,,False,True,,False
+736,000000006304763004,,Emblem Belt / Emblem Belt 105 cm,000000006304763001-main,Active,,,False,True,,False
+737,000000006304763008,,Emblem Belt / Emblem Belt 70 cm,000000006304763001-main,Active,,,False,True,,False
+739,000000006305012001,,Pennant Crossbody Bag One Size,000000006305012001-main,Active,,,False,True,,False
+741,000000006304922001,,Ribbon Wallet One Size,000000006304922001-main,Active,,,False,True,,False
+743,000000006304912001,,Pennant Continental Wallet One Size,000000006304912001-main,Active,,,False,True,,False
+745,000000006304921001,,Pennant Coin Wallet One Size,000000006304921001-main,Active,,,False,True,,False
+747,000000006304973012,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 5,000000006304973012-main,Active,,,False,True,,False
+748,000000006304973014,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 5.5,000000006304973012-main,Active,,,False,True,,False
+749,000000006304973005,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 6,000000006304973012-main,Active,,,False,True,,False
+750,000000006304973013,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 6.5,000000006304973012-main,Active,,,False,True,,False
+751,000000006304973006,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 7,000000006304973012-main,Active,,,False,True,,False
+752,000000006304973007,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 7.5,000000006304973012-main,Active,,,False,True,,False
+753,000000006304973008,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 8,000000006304973012-main,Active,,,False,True,,False
+754,000000006304973009,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 8.5,000000006304973012-main,Active,,,False,True,,False
+755,000000006304973010,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 9,000000006304973012-main,Active,,,False,True,,False
+756,000000006304973011,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 9.5,000000006304973012-main,Active,,,False,True,,False
+757,000000006304973001,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 10,000000006304973012-main,Active,,,False,True,,False
+758,000000006304973002,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 10.5,000000006304973012-main,Active,,,False,True,,False
+759,000000006304973003,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 11,000000006304973012-main,Active,,,False,True,,False
+760,000000006304973027,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 11.5,000000006304973012-main,Active,,,False,True,,False
+761,000000006304973004,,Kerbs Drivers Standard Fit / Kerbs Drivers Standard Fit 12,000000006304973012-main,Active,,,False,True,,False
+763,000000006304973030,,Kerbs Drivers Wide Fit / Kerbs Drivers Wide Fit 4,000000006304973030-main,Active,,,False,True,,False
+764,000000006304973031,,Kerbs Drivers Wide Fit / Kerbs Drivers Wide Fit 4.5,000000006304973030-main,Active,,,False,True,,False
+765,000000006304973015,,Kerbs Drivers Wide Fit / Kerbs Drivers Wide Fit 5,000000006304973030-main,Active,,,False,True,,False
+766,000000006304973016,,Kerbs Drivers Wide Fit / Kerbs Drivers Wide Fit 5.5,000000006304973030-main,Active,,,False,True,,False
+767,000000006304973017,,Kerbs Drivers Wide Fit / Kerbs Drivers Wide Fit 6,000000006304973030-main,Active,,,False,True,,False
+768,000000006304973018,,Kerbs Drivers Wide Fit / Kerbs Drivers Wide Fit 6.5,000000006304973030-main,Active,,,False,True,,False
+769,000000006304973019,,Kerbs Drivers Wide Fit / Kerbs Drivers Wide Fit 7,000000006304973030-main,Active,,,False,True,,False
+770,000000006304973020,,Kerbs Drivers Wide Fit / Kerbs Drivers Wide Fit 7.5,000000006304973030-main,Active,,,False,True,,False
+771,000000006304973021,,Kerbs Drivers Wide Fit / Kerbs Drivers Wide Fit 8,000000006304973030-main,Active,,,False,True,,False
+772,000000006304973022,,Kerbs Drivers Wide Fit / Kerbs Drivers Wide Fit 8.5,000000006304973030-main,Active,,,False,True,,False
+773,000000006304973023,,Kerbs Drivers Wide Fit / Kerbs Drivers Wide Fit 9,000000006304973030-main,Active,,,False,True,,False
+774,000000006304973032,,Kerbs Drivers Wide Fit / Kerbs Drivers Wide Fit 9.5,000000006304973030-main,Active,,,False,True,,False
+775,000000006304973024,,Kerbs Drivers Wide Fit / Kerbs Drivers Wide Fit 10,000000006304973030-main,Active,,,False,True,,False
+776,000000006304973025,,Kerbs Drivers Wide Fit / Kerbs Drivers Wide Fit 10.5,000000006304973030-main,Active,,,False,True,,False
+777,000000006304973026,,Kerbs Drivers Wide Fit / Kerbs Drivers Wide Fit 11,000000006304973030-main,Active,,,False,True,,False
+778,000000006304973028,,Kerbs Drivers Wide Fit / Kerbs Drivers Wide Fit 12,000000006304973030-main,Active,,,False,True,,False
+779,000000006304973029,,Kerbs Drivers Wide Fit / Kerbs Drivers Wide Fit 13,000000006304973030-main,Active,,,False,True,,False
+781,000000006305325011,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 5,000000006305325011-main,Active,,,False,True,,False
+782,000000006305325013,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 5.5,000000006305325011-main,Active,,,False,True,,False
+783,000000006305325015,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 6,000000006305325011-main,Active,,,False,True,,False
+784,000000006305325017,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 6.5,000000006305325011-main,Active,,,False,True,,False
+785,000000006305325019,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 7,000000006305325011-main,Active,,,False,True,,False
+786,000000006305325021,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 7.5,000000006305325011-main,Active,,,False,True,,False
+787,000000006305325023,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 8,000000006305325011-main,Active,,,False,True,,False
+788,000000006305325025,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 8.5,000000006305325011-main,Active,,,False,True,,False
+789,000000006305325027,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 9,000000006305325011-main,Active,,,False,True,,False
+790,000000006305325029,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 9.5,000000006305325011-main,Active,,,False,True,,False
+791,000000006305325001,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 10,000000006305325011-main,Active,,,False,True,,False
+792,000000006305325003,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 10.5,000000006305325011-main,Active,,,False,True,,False
+793,000000006305325004,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 11,000000006305325011-main,Active,,,False,True,,False
+794,000000006305325005,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 11.5,000000006305325011-main,Active,,,False,True,,False
+795,000000006305325006,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 12,000000006305325011-main,Active,,,False,True,,False
+796,000000006305325007,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 12.5,000000006305325011-main,Active,,,False,True,,False
+797,000000006305325008,,Suisse Loafers Standard Fit / Suisse Loafers Standard Fit 13,000000006305325011-main,Active,,,False,True,,False
+799,000000006305325009,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 4,000000006305325009-main,Active,,,False,True,,False
+800,000000006305325010,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 4.5,000000006305325009-main,Active,,,False,True,,False
+801,000000006305325012,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 5,000000006305325009-main,Active,,,False,True,,False
+802,000000006305325014,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 5.5,000000006305325009-main,Active,,,False,True,,False
+803,000000006305325016,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 6,000000006305325009-main,Active,,,False,True,,False
+804,000000006305325018,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 6.5,000000006305325009-main,Active,,,False,True,,False
+805,000000006305325020,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 7,000000006305325009-main,Active,,,False,True,,False
+806,000000006305325022,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 7.5,000000006305325009-main,Active,,,False,True,,False
+807,000000006305325024,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 8,000000006305325009-main,Active,,,False,True,,False
+808,000000006305325026,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 8.5,000000006305325009-main,Active,,,False,True,,False
+809,000000006305325028,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 9,000000006305325009-main,Active,,,False,True,,False
+810,000000006305325032,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 9.5,000000006305325009-main,Active,,,False,True,,False
+811,000000006305325002,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 10,000000006305325009-main,Active,,,False,True,,False
+812,000000006305325034,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 10.5,000000006305325009-main,Active,,,False,True,,False
+813,000000006305325030,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 11,000000006305325009-main,Active,,,False,True,,False
+814,000000006305325033,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 11.5,000000006305325009-main,Active,,,False,True,,False
+815,000000006305325031,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 12,000000006305325009-main,Active,,,False,True,,False
+816,000000006305325035,,Suisse Loafers Wide Fit / Suisse Loafers Wide Fit 13,000000006305325009-main,Active,,,False,True,,False
+818,000000006305229001,,Pennant Print Twilly One Size,000000006305229001-main,Active,,,False,True,,False
+820,000000006305230001,,Pennant Print Twilly One Size,000000006305230001-main,Active,,,False,True,,False
+822,000000006305231001,,Printed Square Scarf One Size,000000006305231001-main,Active,,,False,True,,False
+824,000000006305412001,,Pennant Print Square Scarf One Size,000000006305412001-main,Active,,,False,True,,False
+826,000000006306040001,,7 CC Zip Card Holder One Size,000000006306040001-main,Active,,,False,True,,False
+828,000000006306133001,,Tech Folio One Size,000000006306133001-main,Active,,,False,True,,False
+830,000000006306054019,,Pinte Oxfords Standard Fit / Pinte Oxfords Standard Fit 8,000000006306054019-main,Active,,,False,True,,False
+831,000000006306054021,,Pinte Oxfords Standard Fit / Pinte Oxfords Standard Fit 9,000000006306054019-main,Active,,,False,True,,False
+832,000000006306054011,,Pinte Oxfords Standard Fit / Pinte Oxfords Standard Fit 10,000000006306054019-main,Active,,,False,True,,False
+833,000000006306054014,,Pinte Oxfords Standard Fit / Pinte Oxfords Standard Fit 5,000000006306054019-main,Active,,,False,True,,False
+834,000000006306054028,,Pinte Oxfords Standard Fit / Pinte Oxfords Standard Fit 5.5,000000006306054019-main,Active,,,False,True,,False
+835,000000006306054015,,Pinte Oxfords Standard Fit / Pinte Oxfords Standard Fit 6,000000006306054019-main,Active,,,False,True,,False
+836,000000006306054016,,Pinte Oxfords Standard Fit / Pinte Oxfords Standard Fit 6.5,000000006306054019-main,Active,,,False,True,,False
+837,000000006306054017,,Pinte Oxfords Standard Fit / Pinte Oxfords Standard Fit 7,000000006306054019-main,Active,,,False,True,,False
+838,000000006306054018,,Pinte Oxfords Standard Fit / Pinte Oxfords Standard Fit 7.5,000000006306054019-main,Active,,,False,True,,False
+839,000000006306054020,,Pinte Oxfords Standard Fit / Pinte Oxfords Standard Fit 8.5,000000006306054019-main,Active,,,False,True,,False
+840,000000006306054022,,Pinte Oxfords Standard Fit / Pinte Oxfords Standard Fit 9.5,000000006306054019-main,Active,,,False,True,,False
+841,000000006306054023,,Pinte Oxfords Standard Fit / Pinte Oxfords Standard Fit 10.5,000000006306054019-main,Active,,,False,True,,False
+842,000000006306054012,,Pinte Oxfords Standard Fit / Pinte Oxfords Standard Fit 11,000000006306054019-main,Active,,,False,True,,False
+843,000000006306054024,,Pinte Oxfords Standard Fit / Pinte Oxfords Standard Fit 11.5,000000006306054019-main,Active,,,False,True,,False
+844,000000006306054013,,Pinte Oxfords Standard Fit / Pinte Oxfords Standard Fit 12,000000006306054019-main,Active,,,False,True,,False
+845,000000006306054025,,Pinte Oxfords Standard Fit / Pinte Oxfords Standard Fit 12.5,000000006306054019-main,Active,,,False,True,,False
+846,000000006306054026,,Pinte Oxfords Standard Fit / Pinte Oxfords Standard Fit 13,000000006306054019-main,Active,,,False,True,,False
+848,000000006306054004,,Pinte Oxfords Wide Fit / Pinte Oxfords Wide Fit 6.5,000000006306054004-main,Active,,,False,True,,False
+849,000000006306054005,,Pinte Oxfords Wide Fit / Pinte Oxfords Wide Fit 7,000000006306054004-main,Active,,,False,True,,False
+850,000000006306054006,,Pinte Oxfords Wide Fit / Pinte Oxfords Wide Fit 7.5,000000006306054004-main,Active,,,False,True,,False
+851,000000006306054007,,Pinte Oxfords Wide Fit / Pinte Oxfords Wide Fit 8,000000006306054004-main,Active,,,False,True,,False
+852,000000006306054008,,Pinte Oxfords Wide Fit / Pinte Oxfords Wide Fit 8.5,000000006306054004-main,Active,,,False,True,,False
+853,000000006306054009,,Pinte Oxfords Wide Fit / Pinte Oxfords Wide Fit 9,000000006306054004-main,Active,,,False,True,,False
+854,000000006306054010,,Pinte Oxfords Wide Fit / Pinte Oxfords Wide Fit 9.5,000000006306054004-main,Active,,,False,True,,False
+855,000000006306054001,,Pinte Oxfords Wide Fit / Pinte Oxfords Wide Fit 10,000000006306054004-main,Active,,,False,True,,False
+856,000000006306054002,,Pinte Oxfords Wide Fit / Pinte Oxfords Wide Fit 10.5,000000006306054004-main,Active,,,False,True,,False
+857,000000006306054003,,Pinte Oxfords Wide Fit / Pinte Oxfords Wide Fit 11,000000006306054004-main,Active,,,False,True,,False
+859,000000006305868006,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 8,000000006305868006-main,Active,,,False,True,,False
+860,000000006305868010,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 9,000000006305868006-main,Active,,,False,True,,False
+861,000000006305868007,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 10,000000006305868006-main,Active,,,False,True,,False
+862,000000006305868008,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 5,000000006305868006-main,Active,,,False,True,,False
+863,000000006305868001,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 5.5,000000006305868006-main,Active,,,False,True,,False
+864,000000006305868002,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 6,000000006305868006-main,Active,,,False,True,,False
+865,000000006305868003,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 6.5,000000006305868006-main,Active,,,False,True,,False
+866,000000006305868004,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 7,000000006305868006-main,Active,,,False,True,,False
+867,000000006305868005,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 7.5,000000006305868006-main,Active,,,False,True,,False
+868,000000006305868009,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 8.5,000000006305868006-main,Active,,,False,True,,False
+869,000000006305868012,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 9.5,000000006305868006-main,Active,,,False,True,,False
+870,000000006305868013,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 10.5,000000006305868006-main,Active,,,False,True,,False
+871,000000006305868011,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 11,000000006305868006-main,Active,,,False,True,,False
+872,000000006305868014,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 11.5,000000006305868006-main,Active,,,False,True,,False
+873,000000006305868015,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 12,000000006305868006-main,Active,,,False,True,,False
+874,000000006305868016,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 12.5,000000006305868006-main,Active,,,False,True,,False
+875,000000006305868017,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 13,000000006305868006-main,Active,,,False,True,,False
+877,000000006305968006,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 8,000000006305968006-main,Active,,,False,True,,False
+878,000000006305968008,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 9,000000006305968006-main,Active,,,False,True,,False
+879,000000006305968001,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 10,000000006305968006-main,Active,,,False,True,,False
+880,000000006305968028,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 4,000000006305968006-main,Active,,,False,True,,False
+881,000000006305968015,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 5,000000006305968006-main,Active,,,False,True,,False
+882,000000006305968024,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 5.5,000000006305968006-main,Active,,,False,True,,False
+883,000000006305968003,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 6,000000006305968006-main,Active,,,False,True,,False
+884,000000006305968025,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 6.5,000000006305968006-main,Active,,,False,True,,False
+885,000000006305968004,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 7,000000006305968006-main,Active,,,False,True,,False
+886,000000006305968005,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 7.5,000000006305968006-main,Active,,,False,True,,False
+887,000000006305968007,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 8.5,000000006305968006-main,Active,,,False,True,,False
+888,000000006305968009,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 9.5,000000006305968006-main,Active,,,False,True,,False
+889,000000006305968027,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 10.5,000000006305968006-main,Active,,,False,True,,False
+890,000000006305968002,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 11,000000006305968006-main,Active,,,False,True,,False
+891,000000006305968029,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 11.5,000000006305968006-main,Active,,,False,True,,False
+892,000000006305968012,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 12,000000006305968006-main,Active,,,False,True,,False
+893,000000006305968030,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 12.5,000000006305968006-main,Active,,,False,True,,False
+894,000000006305968014,,Pesek Loafers Standard Fit / Pesek Loafers Standard Fit 13,000000006305968006-main,Active,,,False,True,,False
+896,000000006305968016,,Pesek Loafers Wide Fit / Pesek Loafers Wide Fit 5,000000006305968016-main,Active,,,False,True,,False
+897,000000006305968017,,Pesek Loafers Wide Fit / Pesek Loafers Wide Fit 6,000000006305968016-main,Active,,,False,True,,False
+898,000000006305968026,,Pesek Loafers Wide Fit / Pesek Loafers Wide Fit 6.5,000000006305968016-main,Active,,,False,True,,False
+899,000000006305968018,,Pesek Loafers Wide Fit / Pesek Loafers Wide Fit 7,000000006305968016-main,Active,,,False,True,,False
+900,000000006305968019,,Pesek Loafers Wide Fit / Pesek Loafers Wide Fit 7.5,000000006305968016-main,Active,,,False,True,,False
+901,000000006305968020,,Pesek Loafers Wide Fit / Pesek Loafers Wide Fit 8,000000006305968016-main,Active,,,False,True,,False
+902,000000006305968021,,Pesek Loafers Wide Fit / Pesek Loafers Wide Fit 8.5,000000006305968016-main,Active,,,False,True,,False
+903,000000006305968022,,Pesek Loafers Wide Fit / Pesek Loafers Wide Fit 9,000000006305968016-main,Active,,,False,True,,False
+904,000000006305968023,,Pesek Loafers Wide Fit / Pesek Loafers Wide Fit 9.5,000000006305968016-main,Active,,,False,True,,False
+905,000000006305968010,,Pesek Loafers Wide Fit / Pesek Loafers Wide Fit 10,000000006305968016-main,Active,,,False,True,,False
+906,000000006305968011,,Pesek Loafers Wide Fit / Pesek Loafers Wide Fit 11,000000006305968016-main,Active,,,False,True,,False
+907,000000006305968013,,Pesek Loafers Wide Fit / Pesek Loafers Wide Fit 12,000000006305968016-main,Active,,,False,True,,False
+909,000000006305801006,,Lyder Sneakers Standard Fit / Lyder Sneakers Standard Fit 5,000000006305801006-main,Active,,,False,True,,False
+910,000000006305801001,,Lyder Sneakers Standard Fit / Lyder Sneakers Standard Fit 6,000000006305801006-main,Active,,,False,True,,False
+911,000000006305801007,,Lyder Sneakers Standard Fit / Lyder Sneakers Standard Fit 6.5,000000006305801006-main,Active,,,False,True,,False
+912,000000006305801002,,Lyder Sneakers Standard Fit / Lyder Sneakers Standard Fit 7,000000006305801006-main,Active,,,False,True,,False
+913,000000006305801008,,Lyder Sneakers Standard Fit / Lyder Sneakers Standard Fit 7.5,000000006305801006-main,Active,,,False,True,,False
+914,000000006305801003,,Lyder Sneakers Standard Fit / Lyder Sneakers Standard Fit 8,000000006305801006-main,Active,,,False,True,,False
+915,000000006305801009,,Lyder Sneakers Standard Fit / Lyder Sneakers Standard Fit 8.5,000000006305801006-main,Active,,,False,True,,False
+916,000000006305801004,,Lyder Sneakers Standard Fit / Lyder Sneakers Standard Fit 9,000000006305801006-main,Active,,,False,True,,False
+917,000000006305801010,,Lyder Sneakers Standard Fit / Lyder Sneakers Standard Fit 9.5,000000006305801006-main,Active,,,False,True,,False
+918,000000006305801005,,Lyder Sneakers Standard Fit / Lyder Sneakers Standard Fit 10,000000006305801006-main,Active,,,False,True,,False
+919,000000006305801013,,Lyder Sneakers Standard Fit / Lyder Sneakers Standard Fit 10.5,000000006305801006-main,Active,,,False,True,,False
+920,000000006305801011,,Lyder Sneakers Standard Fit / Lyder Sneakers Standard Fit 11,000000006305801006-main,Active,,,False,True,,False
+921,000000006305801014,,Lyder Sneakers Standard Fit / Lyder Sneakers Standard Fit 11.5,000000006305801006-main,Active,,,False,True,,False
+922,000000006305801012,,Lyder Sneakers Standard Fit / Lyder Sneakers Standard Fit 12,000000006305801006-main,Active,,,False,True,,False
+924,000000006305887001,,Logo Crossbody Large One Size,000000006305887001-main,Active,,,False,True,,False
+926,000000006305977001,,Trilliant Shoulder Bag One Size,000000006305977001-main,Active,,,False,True,,False
+928,000000006305978001,,Logo Crossbody One Size,000000006305978001-main,Active,,,False,True,,False
+930,000000006305804001,,Logo Crossbody One Size,000000006305804001-main,Active,,,False,True,,False
+932,000000006305789001,,Trilliant Small Shoulder Bag One Size,000000006305789001-main,Active,,,False,True,,False
+934,000000006305791001,,Trilliant Small Shoulder Bag One Size,000000006305791001-main,Active,,,False,True,,False
+936,000000006306086009,,Lawren Sneakers Standard Fit / Lawren Sneakers Standard Fit 2,000000006306086009-main,Active,,,False,True,,False
+937,000000006306086001,,Lawren Sneakers Standard Fit / Lawren Sneakers Standard Fit 2.5,000000006306086009-main,Active,,,False,True,,False
+938,000000006306086002,,Lawren Sneakers Standard Fit / Lawren Sneakers Standard Fit 3,000000006306086009-main,Active,,,False,True,,False
+939,000000006306086003,,Lawren Sneakers Standard Fit / Lawren Sneakers Standard Fit 3.5,000000006306086009-main,Active,,,False,True,,False
+940,000000006306086004,,Lawren Sneakers Standard Fit / Lawren Sneakers Standard Fit 4,000000006306086009-main,Active,,,False,True,,False
+941,000000006306086005,,Lawren Sneakers Standard Fit / Lawren Sneakers Standard Fit 4.5,000000006306086009-main,Active,,,False,True,,False
+942,000000006306086006,,Lawren Sneakers Standard Fit / Lawren Sneakers Standard Fit 5,000000006306086009-main,Active,,,False,True,,False
+943,000000006306086007,,Lawren Sneakers Standard Fit / Lawren Sneakers Standard Fit 5.5,000000006306086009-main,Active,,,False,True,,False
+944,000000006306086008,,Lawren Sneakers Standard Fit / Lawren Sneakers Standard Fit 6,000000006306086009-main,Active,,,False,True,,False
+945,000000006306086010,,Lawren Sneakers Standard Fit / Lawren Sneakers Standard Fit 7,000000006306086009-main,Active,,,False,True,,False
+946,000000006306086011,,Lawren Sneakers Standard Fit / Lawren Sneakers Standard Fit 8,000000006306086009-main,Active,,,False,True,,False
+947,000000006306086012,,Lawren Sneakers Standard Fit / Lawren Sneakers Standard Fit 9,000000006306086009-main,Active,,,False,True,,False
+949,000000006306216001,,Lyder Sneakers Standard Fit / Lyder Sneakers Standard Fit 2,000000006306216001-main,Active,,,False,True,,False
+950,000000006306216002,,Lyder Sneakers Standard Fit / Lyder Sneakers Standard Fit 2.5,000000006306216001-main,Active,,,False,True,,False
+951,000000006306216003,,Lyder Sneakers Standard Fit / Lyder Sneakers Standard Fit 3,000000006306216001-main,Active,,,False,True,,False
+952,000000006306216004,,Lyder Sneakers Standard Fit / Lyder Sneakers Standard Fit 3.5,000000006306216001-main,Active,,,False,True,,False
+953,000000006306216005,,Lyder Sneakers Standard Fit / Lyder Sneakers Standard Fit 4,000000006306216001-main,Active,,,False,True,,False
+954,000000006306216006,,Lyder Sneakers Standard Fit / Lyder Sneakers Standard Fit 4.5,000000006306216001-main,Active,,,False,True,,False
+955,000000006306216007,,Lyder Sneakers Standard Fit / Lyder Sneakers Standard Fit 5,000000006306216001-main,Active,,,False,True,,False
+956,000000006306216008,,Lyder Sneakers Standard Fit / Lyder Sneakers Standard Fit 5.5,000000006306216001-main,Active,,,False,True,,False
+957,000000006306216009,,Lyder Sneakers Standard Fit / Lyder Sneakers Standard Fit 6,000000006306216001-main,Active,,,False,True,,False
+958,000000006306216013,,Lyder Sneakers Standard Fit / Lyder Sneakers Standard Fit 6.5,000000006306216001-main,Active,,,False,True,,False
+959,000000006306216010,,Lyder Sneakers Standard Fit / Lyder Sneakers Standard Fit 7,000000006306216001-main,Active,,,False,True,,False
+960,000000006306216011,,Lyder Sneakers Standard Fit / Lyder Sneakers Standard Fit 8,000000006306216001-main,Active,,,False,True,,False
+961,000000006306216012,,Lyder Sneakers Standard Fit / Lyder Sneakers Standard Fit 9,000000006306216001-main,Active,,,False,True,,False
+963,000000006305902001,,Marilou Flat Pumps Standard Fit / Marilou Flat Pumps Standard Fit 2,000000006305902001-main,Active,,,False,True,,False
+964,000000006305902002,,Marilou Flat Pumps Standard Fit / Marilou Flat Pumps Standard Fit 2.5,000000006305902001-main,Active,,,False,True,,False
+965,000000006305902003,,Marilou Flat Pumps Standard Fit / Marilou Flat Pumps Standard Fit 3,000000006305902001-main,Active,,,False,True,,False
+966,000000006305902004,,Marilou Flat Pumps Standard Fit / Marilou Flat Pumps Standard Fit 3.5,000000006305902001-main,Active,,,False,True,,False
+967,000000006305902005,,Marilou Flat Pumps Standard Fit / Marilou Flat Pumps Standard Fit 4,000000006305902001-main,Active,,,False,True,,False
+968,000000006305902007,,Marilou Flat Pumps Standard Fit / Marilou Flat Pumps Standard Fit 4.5,000000006305902001-main,Active,,,False,True,,False
+969,000000006305902006,,Marilou Flat Pumps Standard Fit / Marilou Flat Pumps Standard Fit 5,000000006305902001-main,Active,,,False,True,,False
+970,000000006305902008,,Marilou Flat Pumps Standard Fit / Marilou Flat Pumps Standard Fit 5.5,000000006305902001-main,Active,,,False,True,,False
+971,000000006305902009,,Marilou Flat Pumps Standard Fit / Marilou Flat Pumps Standard Fit 6,000000006305902001-main,Active,,,False,True,,False
+972,000000006305902012,,Marilou Flat Pumps Standard Fit / Marilou Flat Pumps Standard Fit 6.5,000000006305902001-main,Active,,,False,True,,False
+973,000000006305902010,,Marilou Flat Pumps Standard Fit / Marilou Flat Pumps Standard Fit 7,000000006305902001-main,Active,,,False,True,,False
+974,000000006305902014,,Marilou Flat Pumps Standard Fit / Marilou Flat Pumps Standard Fit 7.5,000000006305902001-main,Active,,,False,True,,False
+975,000000006305902011,,Marilou Flat Pumps Standard Fit / Marilou Flat Pumps Standard Fit 8,000000006305902001-main,Active,,,False,True,,False
+976,000000006305902015,,Marilou Flat Pumps Standard Fit / Marilou Flat Pumps Standard Fit 8.5,000000006305902001-main,Active,,,False,True,,False
+977,000000006305902013,,Marilou Flat Pumps Standard Fit / Marilou Flat Pumps Standard Fit 9,000000006305902001-main,Active,,,False,True,,False
+979,000000006306083009,,Marilou Flat Pumps Standard Fit / Marilou Flat Pumps Standard Fit 2,000000006306083009-main,Active,,,False,True,,False
+980,000000006306083010,,Marilou Flat Pumps Standard Fit / Marilou Flat Pumps Standard Fit 2.5,000000006306083009-main,Active,,,False,True,,False
+981,000000006306083001,,Marilou Flat Pumps Standard Fit / Marilou Flat Pumps Standard Fit 3,000000006306083009-main,Active,,,False,True,,False
+982,000000006306083011,,Marilou Flat Pumps Standard Fit / Marilou Flat Pumps Standard Fit 3.5,000000006306083009-main,Active,,,False,True,,False
+983,000000006306083002,,Marilou Flat Pumps Standard Fit / Marilou Flat Pumps Standard Fit 4,000000006306083009-main,Active,,,False,True,,False
+984,000000006306083003,,Marilou Flat Pumps Standard Fit / Marilou Flat Pumps Standard Fit 4.5,000000006306083009-main,Active,,,False,True,,False
+985,000000006306083004,,Marilou Flat Pumps Standard Fit / Marilou Flat Pumps Standard Fit 5,000000006306083009-main,Active,,,False,True,,False
+986,000000006306083005,,Marilou Flat Pumps Standard Fit / Marilou Flat Pumps Standard Fit 5.5,000000006306083009-main,Active,,,False,True,,False
+987,000000006306083006,,Marilou Flat Pumps Standard Fit / Marilou Flat Pumps Standard Fit 6,000000006306083009-main,Active,,,False,True,,False
+988,000000006306083007,,Marilou Flat Pumps Standard Fit / Marilou Flat Pumps Standard Fit 6.5,000000006306083009-main,Active,,,False,True,,False
+989,000000006306083008,,Marilou Flat Pumps Standard Fit / Marilou Flat Pumps Standard Fit 7,000000006306083009-main,Active,,,False,True,,False
+990,000000006306083012,,Marilou Flat Pumps Standard Fit / Marilou Flat Pumps Standard Fit 8,000000006306083009-main,Active,,,False,True,,False
+991,000000006306083013,,Marilou Flat Pumps Standard Fit / Marilou Flat Pumps Standard Fit 9,000000006306083009-main,Active,,,False,True,,False
+993,000000006305924008,,Marilou Pumps Standard Fit / Marilou Pumps Standard Fit 2,000000006305924008-main,Active,,,False,True,,False
+994,000000006305924010,,Marilou Pumps Standard Fit / Marilou Pumps Standard Fit 2.5,000000006305924008-main,Active,,,False,True,,False
+995,000000006305924009,,Marilou Pumps Standard Fit / Marilou Pumps Standard Fit 3,000000006305924008-main,Active,,,False,True,,False
+996,000000006305924011,,Marilou Pumps Standard Fit / Marilou Pumps Standard Fit 3.5,000000006305924008-main,Active,,,False,True,,False
+997,000000006305924001,,Marilou Pumps Standard Fit / Marilou Pumps Standard Fit 4,000000006305924008-main,Active,,,False,True,,False
+998,000000006305924012,,Marilou Pumps Standard Fit / Marilou Pumps Standard Fit 4.5,000000006305924008-main,Active,,,False,True,,False
+999,000000006305924002,,Marilou Pumps Standard Fit / Marilou Pumps Standard Fit 5,000000006305924008-main,Active,,,False,True,,False
+1000,000000006305924003,,Marilou Pumps Standard Fit / Marilou Pumps Standard Fit 5.5,000000006305924008-main,Active,,,False,True,,False
+1001,000000006305924004,,Marilou Pumps Standard Fit / Marilou Pumps Standard Fit 6,000000006305924008-main,Active,,,False,True,,False
+1002,000000006305924005,,Marilou Pumps Standard Fit / Marilou Pumps Standard Fit 6.5,000000006305924008-main,Active,,,False,True,,False
+1003,000000006305924006,,Marilou Pumps Standard Fit / Marilou Pumps Standard Fit 7,000000006305924008-main,Active,,,False,True,,False
+1004,000000006305924014,,Marilou Pumps Standard Fit / Marilou Pumps Standard Fit 7.5,000000006305924008-main,Active,,,False,True,,False
+1005,000000006305924007,,Marilou Pumps Standard Fit / Marilou Pumps Standard Fit 8,000000006305924008-main,Active,,,False,True,,False
+1006,000000006305924015,,Marilou Pumps Standard Fit / Marilou Pumps Standard Fit 8.5,000000006305924008-main,Active,,,False,True,,False
+1007,000000006305924013,,Marilou Pumps Standard Fit / Marilou Pumps Standard Fit 9,000000006305924008-main,Active,,,False,True,,False
+1009,000000006306173001,,Frame Outline Necklace One Size,000000006306173001-main,Active,,,False,True,,False
+1011,000000006306174002,,Frame Ring / Frame Ring M,000000006306174002-main,Active,,,False,True,,False
+1012,000000006306174001,,Frame Ring / Frame Ring L,000000006306174002-main,Active,,,False,True,,False
+1013,000000006306174003,,Frame Ring / Frame Ring S,000000006306174002-main,Active,,,False,True,,False
+1015,000000006305930001,,Printed Scarf One Size,000000006305930001-main,Active,,,False,True,,False
+1017,000000006306103001,,Annita Heeled Sandals Standard Fit / Annita Heeled Sandals Standard Fit 2,000000006306103001-main,Active,,,False,True,,False
+1018,000000006306103012,,Annita Heeled Sandals Standard Fit / Annita Heeled Sandals Standard Fit 2.5,000000006306103001-main,Active,,,False,True,,False
+1019,000000006306103002,,Annita Heeled Sandals Standard Fit / Annita Heeled Sandals Standard Fit 3,000000006306103001-main,Active,,,False,True,,False
+1020,000000006306103003,,Annita Heeled Sandals Standard Fit / Annita Heeled Sandals Standard Fit 3.5,000000006306103001-main,Active,,,False,True,,False
+1021,000000006306103004,,Annita Heeled Sandals Standard Fit / Annita Heeled Sandals Standard Fit 4,000000006306103001-main,Active,,,False,True,,False
+1022,000000006306103005,,Annita Heeled Sandals Standard Fit / Annita Heeled Sandals Standard Fit 4.5,000000006306103001-main,Active,,,False,True,,False
+1023,000000006306103006,,Annita Heeled Sandals Standard Fit / Annita Heeled Sandals Standard Fit 5,000000006306103001-main,Active,,,False,True,,False
+1024,000000006306103007,,Annita Heeled Sandals Standard Fit / Annita Heeled Sandals Standard Fit 5.5,000000006306103001-main,Active,,,False,True,,False
+1025,000000006306103008,,Annita Heeled Sandals Standard Fit / Annita Heeled Sandals Standard Fit 6,000000006306103001-main,Active,,,False,True,,False
+1026,000000006306103009,,Annita Heeled Sandals Standard Fit / Annita Heeled Sandals Standard Fit 6.5,000000006306103001-main,Active,,,False,True,,False
+1027,000000006306103010,,Annita Heeled Sandals Standard Fit / Annita Heeled Sandals Standard Fit 7,000000006306103001-main,Active,,,False,True,,False
+1028,000000006306103011,,Annita Heeled Sandals Standard Fit / Annita Heeled Sandals Standard Fit 8,000000006306103001-main,Active,,,False,True,,False
+1029,000000006306103013,,Annita Heeled Sandals Standard Fit / Annita Heeled Sandals Standard Fit 9,000000006306103001-main,Active,,,False,True,,False
+1031,CC21AAA9DE41C8GS-097WYG,,0109-LACL1221001000002 0,CC21AAA9DE41C8GS-097WYG-main,Active,,,False,True,,False
+1033,DTT_PRO_VAR_Test011,,DTT_PRO_VAR_Test01 / DTT_PRO_VAR_Test01 5,DTT_PRO_VAR_Test011-main,Active,,,False,True,,False
+1034,DTT_PRO_VAR_Test013,,DTT_PRO_VAR_Test01 / DTT_PRO_VAR_Test01 7,DTT_PRO_VAR_Test011-main,Active,,,False,True,,False
+1035,DTT_PRO_VAR_Test012,,DTT_PRO_VAR_Test01 / DTT_PRO_VAR_Test01 6,DTT_PRO_VAR_Test011-main,Active,,,False,True,,False
+1036,DTT_PRO_VAR_Test014,,DTT_PRO_VAR_Test01 / DTT_PRO_VAR_Test01 8,DTT_PRO_VAR_Test011-main,Active,,,False,True,,False
+1038,DTT_MOSTUSED_TEST011,,DTT_MOSTUSED_TEST01 / DTT_MOSTUSED_TEST01 5,DTT_MOSTUSED_TEST011-main,Active,,,False,True,,False
+1039,DTT_MOSTUSED_TEST012,,DTT_MOSTUSED_TEST01 / DTT_MOSTUSED_TEST01 5.5,DTT_MOSTUSED_TEST011-main,Active,,,False,True,,False
+1041,DTT_TML-46275Test011,,DTT_TML-46275Test01 / DTT_TML-46275Test01 6.5,DTT_TML-46275Test011-main,Active,,,False,True,,False
+1042,DTT_TML-46275Test012,,DTT_TML-46275Test01 / DTT_TML-46275Test01 7,DTT_TML-46275Test011-main,Active,,,False,True,,False
+1044,0109-LAC46CMA00431Y5010,,Men’s Serve Slide 2.0 Colour Pop Slides / Men’s Serve Slide 2.0 Colour Pop Slides 10,0109-LAC46CMA00431Y5010-main,Active,,,False,True,,False
+1045,0109-LAC46CMA00431Y5008,,Men’s Serve Slide 2.0 Colour Pop Slides / Men’s Serve Slide 2.0 Colour Pop Slides 8,0109-LAC46CMA00431Y5010-main,Active,,,False,True,,False
+1046,0109-LAC46CMA00431Y5011,,Men’s Serve Slide 2.0 Colour Pop Slides / Men’s Serve Slide 2.0 Colour Pop Slides 11,0109-LAC46CMA00431Y5010-main,Active,,,False,True,,False
+1048,0109-LAC46CMA0043AG9008,,Men’s Serve Slide 2.0 Colour Pop Slides 1 / Men’s Serve Slide 2.0 Colour Pop Slides 1 8,0109-LAC46CMA0043AG9008-main,Active,,,False,True,,False
+1049,0109-LAC46CMA0043AG9006,,Men’s Serve Slide 2.0 Colour Pop Slides 1 / Men’s Serve Slide 2.0 Colour Pop Slides 1 6,0109-LAC46CMA0043AG9008-main,Active,,,False,True,,False
+1050,0109-LAC46CMA0043AG9009,,Men’s Serve Slide 2.0 Colour Pop Slides 1 / Men’s Serve Slide 2.0 Colour Pop Slides 1 9,0109-LAC46CMA0043AG9008-main,Active,,,False,True,,False
+1051,0109-LAC46CMA0043AG9007,,Men’s Serve Slide 2.0 Colour Pop Slides 1 / Men’s Serve Slide 2.0 Colour Pop Slides 1 7,0109-LAC46CMA0043AG9008-main,Active,,,False,True,,False
+1053,0109-LACPH6351SMI000006,,Contrast Collar and Cuff Stretch Polo Shirt / Contrast Collar and Cuff Stretch Polo Shirt 6,0109-LACPH6351SMI000006-main,Active,,,False,True,,False
+1054,0109-LACPH6351SMI000005,,Contrast Collar and Cuff Stretch Polo Shirt / Contrast Collar and Cuff Stretch Polo Shirt 5,0109-LACPH6351SMI000006-main,Active,,,False,True,,False
+1055,0109-LACPH6351SMI000004,,Contrast Collar and Cuff Stretch Polo Shirt / Contrast Collar and Cuff Stretch Polo Shirt 4,0109-LACPH6351SMI000006-main,Active,,,False,True,,False
+1056,0109-LACPH6351SMI000003,,Contrast Collar and Cuff Stretch Polo Shirt / Contrast Collar and Cuff Stretch Polo Shirt 3,0109-LACPH6351SMI000006-main,Active,,,False,True,,False
+1058,0109-LACPH7369NUV000004,,Original L.12.12 Lacoste Badge Polo Shirt 4,0109-LACPH7369NUV000004-main,Active,,,False,True,,False
+1060,dsadas3sdasd,,Test_product_12345 / Test_product_12345 6,dsadas3sdasd-main,Active,,,False,True,,False
+1061,dsad3dsfadfas,,Test_product_12345 / Test_product_12345 5,dsadas3sdasd-main,Active,,,False,True,,False
+1063,T_REMV_0021,,SMT_REMV_002 / SMT_REMV_002 4,T_REMV_0021-main,Active,,,False,True,,False
+1064,T_REMV_0022,,SMT_REMV_002 / SMT_REMV_002 3,T_REMV_0021-main,Active,,,False,True,,False
+1065,SMT_REMV_0023,,SMT_REMV_002 / SMT_REMV_002 12.5,T_REMV_0021-main,Active,,,False,True,,False
+1066,234_1,,SMT_REMV_002 / SMT_REMV_002 9,T_REMV_0021-main,Active,,,False,True,,False
+1067,235,,SMT_REMV_002 / SMT_REMV_002 6.5,T_REMV_0021-main,Active,,,False,True,,False
+1068,234,,SMT_REMV_002 / SMT_REMV_002 6,T_REMV_0021-main,Active,,,False,True,,False
+1070,early-autumn-12345,,Early Autumn Denim Canvas Shoes -Test 0,early-autumn-12345-main,Active,,,False,True,,False
+1072,early-autumn-2024,,Early Autumn Denim Canvas Shoes -Test 0,early-autumn-2024-main,Active,,,False,True,,False
+1074,early-autumn-202409,,Early Autumn Denim Canvas Shoes -Test 0,early-autumn-202409-main,Active,,,False,True,,False
+1076,early-autumn-202499,,Early Autumn Denim Canvas Shoes -Test / Early Autumn Denim Canvas Shoes -Test 0,early-autumn-denim-canvas-shoes,Active,,,False,True,,False
+1077,MindTestProduct-12345,,MindTestProduct-12345 0,MindTestProduct-12345-main,Active,,,False,True,,False
+1079,MindTestProduct-67890,,MindTestProduct-67890 0,MindTestProduct-67890-main,Active,,,False,True,,False
+1081,SMT_ATR_BLOCKEDITSELLER011,,SMT_ATR_BLOCKEDITSELLER01 / SMT_ATR_BLOCKEDITSELLER01 5.5,SMT_ATR_BLOCKEDITSELLER011-main,Active,,,False,True,,False
+1082,SMT_ATR_BLOCKEDITSELLER012,,SMT_ATR_BLOCKEDITSELLER01 / SMT_ATR_BLOCKEDITSELLER01 7.5,SMT_ATR_BLOCKEDITSELLER011-main,Active,,,False,True,,False
+1084,Nisubisi-M,,Nisubisi / Nisubisi M,Nisubisi-M-main,Active,,,False,True,,False
+1085,Nisubisi-L,,Nisubisi / Nisubisi L,Nisubisi-M-main,Active,,,False,True,,False
+1087,SMT_REMV_0011,,SMT_REMV_001 / SMT_REMV_001 5.5,SMT_REMV_0011-main,Active,,,False,True,,False
+1088,SMT_REMV_0012,,SMT_REMV_001 / SMT_REMV_001 6,SMT_REMV_0011-main,Active,,,False,True,,False
+1089,test-2623452345,,SMT_REMV_001 / SMT_REMV_001 9.5,SMT_REMV_0011-main,Active,,,False,True,,False
+1090,test-25325,,SMT_REMV_001 / SMT_REMV_001 10.5,SMT_REMV_0011-main,Active,,,False,True,,False
+1091,test-124124124312431243,,SMT_REMV_001 / SMT_REMV_001 6.5,SMT_REMV_0011-main,Active,,,False,True,,False
+1092,test-133412412431234,,SMT_REMV_001 / SMT_REMV_001 7,SMT_REMV_0011-main,Active,,,False,True,,False
+1093,test-sku-125,,SMT_REMV_001 / SMT_REMV_001 8,SMT_REMV_0011-main,Active,,,False,True,,False
+1095,test-1-sku,,Bally Iconic 35mm Belt / Bally Iconic 35mm Belt 11,test-1-sku-main,Active,,,False,True,,False
+1096,test-2-sku,,Bally Iconic 35mm Belt / Bally Iconic 35mm Belt 12,test-1-sku-main,Active,,,False,True,,False
+1097,test-unique-test-2,,Bally Iconic 35mm Belt / Bally Iconic 35mm Belt 9,test-1-sku-main,Active,,,False,True,,False
+1098,test-unique-test-1_DELETED_2024-09-08_14-08-51,,Bally Iconic 35mm Belt / Bally Iconic 35mm Belt --No Longer Valid Value--,test-1-sku-main,Active,,,False,True,,False
+1100,variations-test-1,,Hello world 5.5,variations-test-1-main,Active,,,False,True,,False
+1102,NOODLES-12345-main,,LEANguini Alfredo MontAmoré Default One Size,NOODLES-12345-main-main,Active,,,False,True,,False
+1104,early-autumn-denim,,Early Autumn Denim Canvas Shoes -Test 0,early-autumn-denim-main,Active,,,False,True,,False
+1106,SAG-0.190001,,ECG MACHINE W/ ACCY1,SAG-0.190001,Active,,,False,True,,False
+1107,SAG-0.190001-Box,,ECG MACHINE W/ ACCY1-Box,SAG-0.190001,Active,,,False,False,,False
+1108,8885019320408,,"Mind Matters EXTREME Micro SD Card 16GB, 32GB, 64GB UHS-I U3 up to 170MB/s FREE READER & TRAVEL CASE 64GB Micro SDXC",8885019320415-main,Active,,,False,True,,False
+1109,SAG-0.190000,,ECG MACHINE W/ ACCY,SAG-0.190000,Active,,,False,True,0 . 190000,False
+1110,SAG-0.190000-Box,,ECG MACHINE W/ ACCY-Box,SAG-0.190000,Active,,,False,False,0 . 190000,False
+1111,TEST-CLONE-PRODUCT,,Test Clone Product,TEST-CLONE-PRODUCT,Active,,,False,True,,False
+1112,SKUTestone,,Test Product One,SKUTestone,Active,,,False,True,,False
+1113,RR0001,,Red Rice,RR0001,Active,,,False,True,,False
+1114,RR0001-Box,,Red Rice-Box,RR0001,Active,,,False,False,,False
+1115,RR0001-CARTON,,Red Rice-CARTON,RR0001,Active,,,False,False,,False
+1116,Brown002,,Test Group Package Brown,Brown002-main,Active,,,False,True,,False
