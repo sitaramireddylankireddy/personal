@@ -1,10 +1,12 @@
 from sentence_transformers import SentenceTransformer
+from sentence_transformers import CrossEncoder
 from Levenshtein import distance as lev
 from functools import lru_cache
 import faiss
 from sklearn.preprocessing import normalize
 import numpy as np
 model_path = 'BAAI/bge-base-en-v1.5'
+reranker_model = CrossEncoder("BAAI/bge-reranker-base", max_length=512)
 
 
 def get_lev_distance(key1,key2):
@@ -39,6 +41,8 @@ def load_model():
     model = SentenceTransformer(model_name_or_path=model_path,device='cpu')
     return model
 
+model = load_model()
+    
 def get_induvidual_products(products_df):
     required_columns_df = products_df[['sku','short_name','name','parent_sku','status','category','sub_category','is_family_head','is_individual','product_code','is_deleted']]
     induvidual_products = required_columns_df[((required_columns_df['is_family_head']==False) & (required_columns_df['status']=='Active'))]
@@ -85,10 +89,9 @@ def filter_indexes(indexes, dists, dist_threshold = 0.6):
 
 
 def get_top_matches(product_text,index,product_list, dist_threshold = 0.5):
-    model = load_model()
     product_text_embedding = model.encode([product_text])[0]
     normalized_product_text_embedding = normalize([product_text_embedding])[0]
-    n=1
+    n=10
     dists,indexes = index.search(np.array([normalized_product_text_embedding]),n)
     indexes, dists = filter_indexes(indexes,dists, dist_threshold=dist_threshold)
     filtered_products = []
@@ -96,13 +99,32 @@ def get_top_matches(product_text,index,product_list, dist_threshold = 0.5):
         filtered_products.append(product_list[idx])
     return filtered_products,indexes
 
+def get_best_match_with_reranker(product_text,filtered_products):
+    score_list = []
+    i = 0
+    max_score = 0
+    max_score_index = 0
+    for product in filtered_products:
+        score = reranker_model.predict([(product_text,product)])
+        score_list.append(score)
+        if score > max_score:
+            max_score_index = i
+            max_score = score
+        i = i + 1
+    return max_score_index
+
+
+
+
 def get_matched_product(product_text, products_catalog_names_list,product_sku_list,index):
     filtered_products,indexes = get_top_matches(product_text,index,products_catalog_names_list)
+    print(filtered_products)
     if not indexes[0]:
         product_sku = None
         filtered_products = [None]
     else:
-        product_sku = product_sku_list[indexes[0][0]]
-    return filtered_products[0],product_sku
+        min_score_index = get_best_match_with_reranker(product_text,filtered_products)
+        product_sku = product_sku_list[indexes[0][min_score_index]]
+    return filtered_products[min_score_index],product_sku
 
 
