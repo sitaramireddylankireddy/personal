@@ -54,7 +54,8 @@ def generate_response(prompt):
         ],
         'max_tokens': max_tokens,
         'temperature': 0,
-        'top_p':1
+        'top_p':1,
+        'response_format' : {'type':'json_object'}
     }
     response = requests.post(
         "https://api.openai.com/v1/chat/completions", headers=headers, json=payload
