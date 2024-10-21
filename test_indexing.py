@@ -26,7 +26,7 @@ import pandas as pd
 
 # use generate_product_embeddings function to generate index and the use save_index to save embeddings file
 # index = load_index('products_catalog.index')
-message_from_customer = """Denim shoes black size 6.5 1 pair, Lago breifcase 1, casual fixed belt 110 cm 1 """
+message_from_customer = """Denim shoes black size 6.5 1 pair, Lago breifcase 1, casual fixed belt 110 cm 1, sweat shirt """
 index_path = 'products_catalog.index'
 products_df = pd.read_csv('data-1727686302676.csv')
 embeded_products_catlog = get_induvidual_products(products_df)

@@ -116,6 +116,17 @@ def get_best_match_with_reranker(product_text,filtered_products):
 
 
 
+# def get_matched_product(product_text, products_catalog_names_list,product_sku_list,index):
+#     filtered_products,indexes = get_top_matches(product_text,index,products_catalog_names_list)
+#     print(filtered_products)
+#     if not indexes[0]:
+#         product_sku = None
+#         filtered_products = [None]
+#     else:
+#         min_score_index = get_best_match_with_reranker(product_text,filtered_products)
+#         product_sku = product_sku_list[indexes[0][min_score_index]]
+#     return filtered_products[min_score_index],product_sku
+
 def get_matched_product(product_text, products_catalog_names_list,product_sku_list,index):
     filtered_products,indexes = get_top_matches(product_text,index,products_catalog_names_list)
     print(filtered_products)
@@ -123,8 +134,7 @@ def get_matched_product(product_text, products_catalog_names_list,product_sku_li
         product_sku = None
         filtered_products = [None]
     else:
-        min_score_index = get_best_match_with_reranker(product_text,filtered_products)
-        product_sku = product_sku_list[indexes[0][min_score_index]]
-    return filtered_products[min_score_index],product_sku
+        product_sku = product_sku_list[indexes[0][0]]
+    return filtered_products[0],product_sku
 
 
